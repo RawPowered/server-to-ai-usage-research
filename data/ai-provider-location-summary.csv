@@ -1,0 +1,7 @@
+ai,server_companies,location_summary,ai_global_compute_pct,source_ids
+OpenAI / ChatGPT,Oracle / OCI; Microsoft / Azure; CoreWeave; AWS,"Oracle: Abilene, TX. Azure: Atlanta, GA / Wisconsin / Arizona (likely). CoreWeave: Denton, TX (likely). AWS: campuses undisclosed.",,S19;S18;S27;S28
+Anthropic / Claude,AWS; SpaceXSI; Google Cloud; Azure; Fluidstack; CoreWeave,"AWS: New Carlisle, IN. SpaceXSI: Memphis, TN. Google / Azure / CoreWeave: campuses undisclosed. Fluidstack: NY / TX expansion.",,S05;S06;S13;S09;S22;S26
+Google / Gemini,Google; SpaceXSI (reported),"Google-owned campus examples: Pryor, OK; Columbus / New Albany, OH; Council Bluffs, IA. Gemini-specific site assignment uncertain. SpaceXSI tenant location undisclosed.",,S30;S16;S03
+Microsoft AI / Copilot,Microsoft / Azure; Nebius; Nscale,"Azure: Atlanta, GA / Wisconsin / Arizona. Nebius: New Jersey (likely), Finland (possible). Nscale: Sines, Portugal. Model-level routing unknown.",,S18;S16
+Amazon / Nova,Amazon / AWS,"Nova: exact campuses undisclosed. AWS-owned AI capacity mapped in Indiana, Mississippi, Ohio and Pennsylvania; this does not assign Nova to those sites.",,S29;S16
+SpaceXSI / Grok,SpaceXSI,"Organization-linked sites: Colossus 2, Memphis, TN; QTS record, Atlanta, GA. Grok-specific split undisclosed. Colossus 1 access contracted to Anthropic.",,S23;S16;S06

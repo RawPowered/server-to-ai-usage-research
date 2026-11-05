@@ -214,3 +214,43 @@ Epoch AI data adaptations are credited to Epoch AI under its stated [CC BY licen
 - Type: public_geographic_data
 - [Original source](https://cdn.jsdelivr.net/npm/us-atlas@3.0.1/states-10m.json)
 - Evidence location: Published TopoJSON state basemap
+
+
+## S26 — Multi-Year Agreement With Anthropic
+
+- Publisher: CoreWeave
+- Published/updated: 2026-04-10
+- [Original source](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/)
+- Evidence location: Agreement; capacity expected online during 2026; sites not identified
+
+
+## S27 — Scaling AI for everyone
+
+- Publisher: OpenAI
+- Published/updated: 2026-02-27
+- [Original source](https://openai.com/index/scaling-ai-for-everyone/)
+- Evidence location: Hopper and Blackwell systems already operating across Microsoft, OCI and CoreWeave
+
+
+## S28 — AWS and OpenAI strategic partnership
+
+- Publisher: Amazon
+- Published/updated: 2025-11-03
+- [Original source](https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure)
+- Evidence location: AWS supply starting immediately; US infrastructure; no campus assignment
+
+
+## S29 — What is Amazon Nova?
+
+- Publisher: Amazon Web Services
+- Published/updated: retrieved 2026-11-04
+- [Original source](https://docs.aws.amazon.com/nova/latest/userguide/what-is-nova.html)
+- Evidence location: Nova model access through Amazon Bedrock; not a campus allocation disclosure
+
+
+## S30 — Google TPUs on Oracle Cloud Infrastructure
+
+- Publisher: Google Cloud
+- Published/updated: 2026-10-27
+- [Original source](https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure)
+- Evidence location: Google TPUs train and serve Gemini; no per-campus Gemini allocation

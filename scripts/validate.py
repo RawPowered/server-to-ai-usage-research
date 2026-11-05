@@ -50,3 +50,15 @@ if (ROOT/'data/geography_sites.json').exists():
     geojson=json.loads((ROOT/'data/server-locations.geojson').read_text(encoding='utf-8'))
     assert len(geojson['features'])==len(locations)
     print(f'PASS: {len(locations)} campus pins; coordinates; source IDs; owner denominators; share totals; unknown workload shares; GeoJSON count.')
+
+if (ROOT/'data/ai-provider-location-routes.json').exists():
+    routes=json.loads((ROOT/'data/ai-provider-location-routes.json').read_text(encoding='utf-8'))
+    assert {r['ai'] for r in routes}=={'OpenAI','Anthropic','Google','Microsoft','Amazon','SpaceXSI'}
+    assert len({r['route_id'] for r in routes})==len(routes)
+    for r in routes:
+        assert r['ai_global_compute_pct'] is None
+        assert r['percentage_status']=='undisclosed'
+        assert set(r['source_ids'])<=ids
+        assert set(r['site_ids'])<=set(by_id)
+        assert r['company_role'] and r['route_status'] and r['location_confidence']
+    print(f'PASS: {len(routes)} provider/location routes; six AI organizations; source/site references; role/status labels; unknown workload percentages.')

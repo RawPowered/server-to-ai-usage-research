@@ -38,3 +38,11 @@ Epoch-derived data is attributed to Epoch AI; see the source register for licens
 - [Location CSV](data/geography_sites.csv), [GeoJSON](data/server-locations.geojson), and [capacity percentages](data/geography_capacity_shares.csv)
 
 Actual AI workload percentages are undisclosed. The map calculates only shares of the mapped owned-capacity subset and marks tenant uncertainty.
+
+## AI → server company → location
+
+- [Relationship table and evidence](research/04-ai-provider-location-routing.md)
+- [Interactive comparison and owner-capacity shares](charts/ai-provider-location.html)
+- [Detailed route CSV](data/ai-provider-location-routes.csv) and [summary CSV](data/ai-provider-location-summary.csv)
+
+Unknown AI workload shares remain blank; provider footprint shares have a separate denominator.

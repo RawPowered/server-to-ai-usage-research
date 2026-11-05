@@ -1,0 +1,373 @@
+[
+  {
+    "route_id": "P01",
+    "ai": "OpenAI",
+    "server_company": "Oracle / OCI",
+    "company_role": "cloud provider",
+    "location": "Abilene, Texas, US",
+    "route_status": "Operating",
+    "location_confidence": "Confirmed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S19",
+      "S27"
+    ],
+    "site_ids": [
+      "G002"
+    ],
+    "note": "OpenAI training and inference disclosed; campus MW is not an OpenAI workload percentage.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P02",
+    "ai": "OpenAI",
+    "server_company": "Microsoft / Azure",
+    "company_role": "cloud provider",
+    "location": "Fayetteville (Atlanta), Georgia; Mount Pleasant, Wisconsin; Goodyear, Arizona, US",
+    "route_status": "Operating provider; likely site links",
+    "location_confidence": "Likely",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S08",
+      "S18",
+      "S16",
+      "S27"
+    ],
+    "site_ids": [
+      "G004",
+      "G006",
+      "G016"
+    ],
+    "note": "Fairwater network support is documented; site-level OpenAI allocations are not disclosed.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P03",
+    "ai": "OpenAI",
+    "server_company": "CoreWeave",
+    "company_role": "cloud provider",
+    "location": "Denton, Texas, US",
+    "route_status": "Operating provider; likely site link",
+    "location_confidence": "Likely",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S27",
+      "S16"
+    ],
+    "site_ids": [
+      "G013"
+    ],
+    "note": "Other CoreWeave sites in the map have speculative OpenAI user labels; no campus inferred from the provider contract alone.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P04",
+    "ai": "OpenAI",
+    "server_company": "Amazon / AWS",
+    "company_role": "cloud provider",
+    "location": "United States; exact campuses undisclosed",
+    "route_status": "Supply relationship announced",
+    "location_confidence": "Undisclosed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S28",
+      "S10",
+      "S11"
+    ],
+    "site_ids": [],
+    "note": "Existing NVIDIA supply is distinct from the approximately 2 GW Trainium ramp beginning in 2027.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P05",
+    "ai": "OpenAI",
+    "server_company": "Google Cloud",
+    "company_role": "model distributor",
+    "location": "Exact processing campuses undisclosed",
+    "route_status": "Distribution only in this evidence",
+    "location_confidence": "Undisclosed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S12"
+    ],
+    "site_ids": [],
+    "note": "Model-garden access is not evidence of a dedicated OpenAI training or inference campus.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P06",
+    "ai": "Anthropic",
+    "server_company": "Amazon / AWS",
+    "company_role": "cloud provider",
+    "location": "New Carlisle, Indiana, US",
+    "route_status": "Operating",
+    "location_confidence": "Confirmed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S05",
+      "S20",
+      "S16"
+    ],
+    "site_ids": [
+      "G003"
+    ],
+    "note": "Canton/Ridgeland in Mississippi and Berwick in Pennsylvania are possible user-site links, not confirmed routes.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P07",
+    "ai": "Anthropic",
+    "server_company": "SpaceXSI",
+    "company_role": "compute provider / campus owner",
+    "location": "Memphis, Tennessee, US \u2014 Colossus 1 and 2",
+    "route_status": "Contracted access; operating campuses",
+    "location_confidence": "Confirmed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S06",
+      "S07",
+      "S16"
+    ],
+    "site_ids": [
+      "G001",
+      "G011"
+    ],
+    "note": "May 6 announcement covers all (100%) of Colossus 1 capacity. This is a dated site-contract scope, not 100% of Claude compute. Shared Colossus 2 allocation remains unknown.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P08",
+    "ai": "Anthropic",
+    "server_company": "Google Cloud",
+    "company_role": "cloud provider",
+    "location": "Existing TPU campuses undisclosed",
+    "route_status": "Existing partnership",
+    "location_confidence": "Undisclosed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S13"
+    ],
+    "site_ids": [],
+    "note": "Do not assign Claude to every Google-owned site. Google/Broadcom expansion from 2027 is additional future capacity.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P09",
+    "ai": "Anthropic",
+    "server_company": "Microsoft / Azure",
+    "company_role": "cloud provider",
+    "location": "Exact campuses undisclosed",
+    "route_status": "Contract announced; delivery split unknown",
+    "location_confidence": "Undisclosed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S09"
+    ],
+    "site_ids": [],
+    "note": "The $30 billion agreement does not identify individual campuses or delivered tenant capacity.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P10",
+    "ai": "Anthropic",
+    "server_company": "Fluidstack",
+    "company_role": "infrastructure partner",
+    "location": "New York and Texas, US \u2014 announced expansion",
+    "route_status": "Expansion announced",
+    "location_confidence": "State-level",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S22"
+    ],
+    "site_ids": [],
+    "note": "No new campus-to-operator join is inferred from this announcement.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P11",
+    "ai": "Anthropic",
+    "server_company": "AI XPV Platform",
+    "company_role": "campus owner per tracker",
+    "location": "Barker, New York, US \u2014 Lake Mariner",
+    "route_status": "Positive campus MW; likely user link",
+    "location_confidence": "Likely",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S16"
+    ],
+    "site_ids": [
+      "G009"
+    ],
+    "note": "Owner is distinct from a cloud operator. This record is not an additional disjoint Claude compute pool.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P12",
+    "ai": "Anthropic",
+    "server_company": "CoreWeave",
+    "company_role": "cloud provider",
+    "location": "Exact campuses undisclosed",
+    "route_status": "2026 capacity agreement; delivery unverified here",
+    "location_confidence": "Undisclosed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S26"
+    ],
+    "site_ids": [],
+    "note": "The announcement schedules capacity during 2026; no specific site assignment is established in this evidence.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P13",
+    "ai": "Google",
+    "server_company": "Google",
+    "company_role": "own infrastructure",
+    "location": "Google-owned campuses, including Pryor, Oklahoma; Columbus/New Albany, Ohio; Council Bluffs, Iowa, US",
+    "route_status": "Operating fleet; model site assignment uncertain",
+    "location_confidence": "Possible for Gemini sites",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S30",
+      "S21",
+      "S16"
+    ],
+    "site_ids": [
+      "G005",
+      "G007",
+      "G008",
+      "G012"
+    ],
+    "note": "Google TPUs train and serve Gemini; the tracker labels many DeepMind site assignments speculative. These examples establish ownership, not proven Gemini traffic routes.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P14",
+    "ai": "Google",
+    "server_company": "SpaceXSI",
+    "company_role": "external compute provider",
+    "location": "Exact tenant campus assignment undisclosed",
+    "route_status": "Research-reported rental relationship",
+    "location_confidence": "Undisclosed",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S03"
+    ],
+    "site_ids": [],
+    "note": "Do not attach Google to a particular Colossus campus without a source identifying it.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P15",
+    "ai": "Microsoft",
+    "server_company": "Microsoft / Azure",
+    "company_role": "own infrastructure",
+    "location": "Fayetteville (Atlanta), Georgia; Mount Pleasant, Wisconsin; Goodyear, Arizona, US",
+    "route_status": "Operating fleet; internal workload split unknown",
+    "location_confidence": "Likely / confirmed organization links",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S18",
+      "S16"
+    ],
+    "site_ids": [
+      "G004",
+      "G006",
+      "G016"
+    ],
+    "note": "Microsoft AI, Copilot and external customers are distinct workloads; campus capacities do not reveal their shares.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P16",
+    "ai": "Microsoft",
+    "server_company": "Nebius",
+    "company_role": "external compute provider",
+    "location": "Vineland, New Jersey, US; Mantsala, Uusimaa, Finland",
+    "route_status": "Research-attributed user links",
+    "location_confidence": "Likely / possible",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S16"
+    ],
+    "site_ids": [
+      "G037",
+      "G039"
+    ],
+    "note": "Vineland is likely Microsoft; Mantsala is speculative. These are organization-level capacity links, not proof of a specific Copilot route.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P17",
+    "ai": "Microsoft",
+    "server_company": "Nscale",
+    "company_role": "external compute provider",
+    "location": "Sines, Portugal",
+    "route_status": "Research-attributed user link",
+    "location_confidence": "Confirmed organization link",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S16"
+    ],
+    "site_ids": [
+      "G042"
+    ],
+    "note": "Microsoft is the tracker user; specific Microsoft models and allocation are not disclosed.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P18",
+    "ai": "Amazon",
+    "server_company": "Amazon / AWS",
+    "company_role": "own infrastructure / model service",
+    "location": "Nova exact campuses undisclosed; mapped AWS owner footprint spans Indiana, Mississippi, Ohio and Pennsylvania, US",
+    "route_status": "Nova on Bedrock; campus assignment unknown",
+    "location_confidence": "Undisclosed for Nova",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S29",
+      "S16"
+    ],
+    "site_ids": [],
+    "note": "AWS fleet locations do not establish Nova deployment there; New Carlisle is associated with Claude, not assigned to Nova.",
+    "as_of": "2026-11-04"
+  },
+  {
+    "route_id": "P19",
+    "ai": "SpaceXSI",
+    "server_company": "SpaceXSI",
+    "company_role": "own infrastructure",
+    "location": "Memphis, Tennessee, US \u2014 Colossus 2; Atlanta, Georgia, US \u2014 QTS record",
+    "route_status": "Operating organization links",
+    "location_confidence": "Confirmed organization links",
+    "ai_global_compute_pct": null,
+    "percentage_status": "undisclosed",
+    "source_ids": [
+      "S23",
+      "S16"
+    ],
+    "site_ids": [
+      "G001",
+      "G043"
+    ],
+    "note": "SpaceXAI use is recorded at these sites; individual Grok model routes and the tenant allocation split are not disclosed.",
+    "as_of": "2026-11-04"
+  }
+]

@@ -248,5 +248,55 @@
     "url": "https://cdn.jsdelivr.net/npm/us-atlas@3.0.1/states-10m.json",
     "locator": "Published TopoJSON state basemap",
     "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S26",
+    "publisher": "CoreWeave",
+    "title": "Multi-Year Agreement With Anthropic",
+    "published_or_updated": "2026-04-10",
+    "source_type": "company_announcement",
+    "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Multi-Year-Agreement-With-Anthropic/",
+    "locator": "Agreement; capacity expected online during 2026; sites not identified",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S27",
+    "publisher": "OpenAI",
+    "title": "Scaling AI for everyone",
+    "published_or_updated": "2026-02-27",
+    "source_type": "company_announcement",
+    "url": "https://openai.com/index/scaling-ai-for-everyone/",
+    "locator": "Hopper and Blackwell systems already operating across Microsoft, OCI and CoreWeave",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S28",
+    "publisher": "Amazon",
+    "title": "AWS and OpenAI strategic partnership",
+    "published_or_updated": "2025-11-03",
+    "source_type": "company_announcement",
+    "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+    "locator": "AWS supply starting immediately; US infrastructure; no campus assignment",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S29",
+    "publisher": "Amazon Web Services",
+    "title": "What is Amazon Nova?",
+    "published_or_updated": "retrieved 2026-11-04",
+    "source_type": "official_documentation",
+    "url": "https://docs.aws.amazon.com/nova/latest/userguide/what-is-nova.html",
+    "locator": "Nova model access through Amazon Bedrock; not a campus allocation disclosure",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S30",
+    "publisher": "Google Cloud",
+    "title": "Google TPUs on Oracle Cloud Infrastructure",
+    "published_or_updated": "2026-10-27",
+    "source_type": "company_announcement",
+    "url": "https://cloud.google.com/blog/products/infrastructure/bringing-google-tpus-to-oracle-cloud-infrastructure",
+    "locator": "Google TPUs train and serve Gemini; no per-campus Gemini allocation",
+    "accessed_local_date": "2026-11-04"
   }
 ]
