@@ -1,0 +1,1701 @@
+[
+  {
+    "site_id": "G001",
+    "name": "Colossus 2",
+    "owner": "SpaceXSI",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "confident"
+      },
+      {
+        "entity": "Cursor",
+        "source_label": "Cursor",
+        "confidence": "confident"
+      },
+      {
+        "entity": "SpaceXSI",
+        "source_label": "SpaceXAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Memphis",
+    "state": "Tennessee",
+    "country": "United States",
+    "longitude": -90.038567,
+    "latitude": 34.989288,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 946.0,
+    "h100e": 1111672.5618999496,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [WSJ profile of the Colossus data centers](https://www.wsj.com/tech/elon-musk-xai-memphis-tennessee-power-dec4c70d)\u00a0- [Final GPU count reported by Elon Musk](https://x.com/elonmusk/status/1947701807389515912)- [MLGW update mentioning power requests for Colossus 2](https://www.mlgw.com/images/content/files/pdf/new/5-5-25%20xAI%20Update.pdf#page=4)- [SpaceX-Cursor partnership to use Colossus](https://x.com/SpaceX/status/2046713419978453374)- [Anthropic to use Colossus 2 from June 2026](https://x.com/nottombrown/status/2057194829986300375)- [SpaceX S-1 filing, mentioning exact compute and power for Colossus 2](https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm)",
+    "notes": "To power the site quickly, xAI installed natural gas turbines just across the state border in Mississippi, possibly to secure faster approval for their operation."
+  },
+  {
+    "site_id": "G002",
+    "name": "OpenAI Stargate Abilene",
+    "owner": "Oracle",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Abilene",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -99.785608,
+    "latitude": 32.501314,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 824.0,
+    "h100e": 1018696.3112683173,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Crusoe 2024 Impact Report, with details on Abilene](https://drive.google.com/file/d/1oHWA9vmpvFOh-LvDy5fgq_wq5ITuxd1r/view?usp=sharing)- [Air Permit Application for buildings 1-2, featuring blueprints on p.157](https://drive.google.com/file/d/1FgfX6hqojlBtqNXJHjzJmnwWAMx4_M0b/view?usp=sharing)- [Mortensen\u2019s profile of the project, with details of substations](https://www.mortenson.com/projects/abilene-data-center-development)",
+    "notes": "Abilene is the first of several planned Stargate sites across the U.S. and globally, expected to host OpenAI\u2019s largest compute cluster."
+  },
+  {
+    "site_id": "G003",
+    "name": "Anthropic-Amazon New Carlisle",
+    "owner": "Amazon",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "confident"
+      }
+    ],
+    "city": "New Carlisle",
+    "state": "Indiana",
+    "country": "United States",
+    "longitude": -86.471226,
+    "latitude": 41.679359,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 1037.0,
+    "h100e": 818428.4992420415,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Air Construction Permit application for the northern portion](https://drive.google.com/file/d/1BKiTFNUk2KDaUaiHG7fz0KlkNSBTHzbb/view?usp=sharing)- [Backup diesel generator referenced in the permit](https://www.cat.com/en_US/products/new/power-systems/electric-power/diesel-generator-sets/117341.html)- [Announcement of Project Rainier coming online](https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster)- [Air permit for Buildings 19-32, suggesting expansion to 2.3 GW total facility power](https://t.co/HsAO7oyKa2)",
+    "notes": "New Carlisle is part of the Anthropic\u2013Amazon Project Rainier collaboration and, like many other Amazon data centers, forgoes external cooling infrastructure in favor of direct air-based cooling."
+  },
+  {
+    "site_id": "G004",
+    "name": "Microsoft Fairwater Atlanta",
+    "owner": "Microsoft",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "likely"
+      },
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "likely"
+      }
+    ],
+    "city": "Fayetteville",
+    "state": "Georgia",
+    "country": "United States",
+    "longitude": -84.524524,
+    "latitude": 33.457192,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 636.0,
+    "h100e": 768768.7220818596,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [2023 Air Permit application](https://drive.google.com/file/d/1p7aY9syz319IcEuyukgIIvzmhTNKRS6p/view?usp=sharing) - [YouTube video with aerial views](https://www.youtube.com/watch?v=44eWesI-174) - [OpenAI article mentioning they use Microsoft's Fairwater supercomputers](https://openai.com/index/mrc-supercomputer-networking/)- [Bloomberg article](https://www.bloomberg.com/news/features/2024-12-08/georgia-s-blackstone-backed-qts-data-center-hits-resistance-over-ai-power-needs)",
+    "notes": "Built by QTS with Microsoft as the tenant, Fairwater Atlanta likely provides training compute for OpenAI and is disclosed to contain NVIDIA GB200 GPUs."
+  },
+  {
+    "site_id": "G005",
+    "name": "Google Pryor (North)",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Pryor",
+    "state": "Oklahoma",
+    "country": "United States",
+    "longitude": -95.323495,
+    "latitude": 36.24535,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 368.0,
+    "h100e": 636685.1945426983,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Google announces expansion of Pryor facility](https://blog.google/inside-google/company-announcements/google-american-innovation-oklahoma/)- [Google 2025 Environmental Report](https://sustainability.google/reports/google-2025-environmental-report/) with PUE and water use on pp.109-110- [News of a 9 exaflop TPUv4 cluster in the Pryor data center, launched in 2022](https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G006",
+    "name": "Microsoft Fairwater Wisconsin",
+    "owner": "Microsoft",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "likely"
+      },
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "likely"
+      }
+    ],
+    "city": "Mount Pleasant",
+    "state": "Wisconsin",
+    "country": "United States",
+    "longitude": -87.915203,
+    "latitude": 42.683925,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 369.0,
+    "h100e": 445679.63617988885,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Microsoft blog with engineering details](https://blogs.microsoft.com/blog/2025/09/18/inside-the-worlds-most-powerful-ai-datacenter/)- [Microsoft blog with more general information](https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/)- [Construction Permit Application for building 1](https://drive.google.com/file/d/1azyXnreQBuYEqX2oaSUgePDGCMneez5Z/view?usp=sharing)- [Plan for 9-building and 6-building expansions](https://drive.google.com/file/d/1PQKzfauDNzabN7oNviMKTvsZmxlsUVpG/view?usp=sharing)- [OpenAI article mentioning they use Microsoft's Fairwater supercomputers](https://openai.com/index/mrc-supercomputer-networking/)",
+    "notes": "Microsoft describes Fairwater Wisconsin as its most powerful data center yet, likely providing training compute for OpenAI."
+  },
+  {
+    "site_id": "G007",
+    "name": "Google Columbus",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Columbus",
+    "state": "Ohio",
+    "country": "United States",
+    "longitude": -82.996606,
+    "latitude": 39.849133,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 303.0,
+    "h100e": 331985.85144012125,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [DCD article detailing early work beginning on the site ](https://www.datacenterdynamics.com/en/news/google-breaks-ground-on-columbus-ohio-data-center/)- [Transmission line construction notice; details current site capacity, expansion, and maximum future site capacity ](https://www.aeptransmission.com/ohio/docs/Hartman%20Farms%20Extension%20No.%202%20138%20kV%20Transmission%20Line%20Project%20Construction%20Notice.pdf)",
+    "notes": ""
+  },
+  {
+    "site_id": "G008",
+    "name": "Google New Albany",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "New Albany",
+    "state": "Ohio",
+    "country": "United States",
+    "longitude": -82.767738,
+    "latitude": 40.056767,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 333.0,
+    "h100e": 323900.9600808489,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Draft basis of air permit for Google Omaha, a similar data center](https://drive.google.com/file/d/1KN7o-wQOyt1UEud8wpM8PymXJF479r0n/view?usp=sharing)- Google\u2019s [2025 Environmental Report](https://sustainability.google/reports/google-2025-environmental-report/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G009",
+    "name": "Anthropic Lake Mariner",
+    "owner": "AI XPV Platform",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "likely"
+      }
+    ],
+    "city": "Barker",
+    "state": "New York",
+    "country": "United States",
+    "longitude": -78.602038,
+    "latitude": 43.356428,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 210.0,
+    "h100e": 292829.71197574533,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Terawulf press release with details and timeline for Buildings 1-5](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results)- [DCD article suggesting that Fluidstack will deploy Google TPUs at Lake Mariner](https://www.datacenterdynamics.com/en/news/google-offers-its-tpus-to-ai-cloud-providers-report/)- [Announcement of Anthropic-Fluidstack partnership, including data center(s) in New York](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)",
+    "notes": "Built at a former coal plant on the shores of Lake Ontario, the Fluidstack-leased buildings are reported to serve Google TPUs for Anthropic."
+  },
+  {
+    "site_id": "G010",
+    "name": "Google Mesa",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "Mesa",
+    "state": "Arizona",
+    "country": "United States",
+    "longitude": -111.675872,
+    "latitude": 33.354578,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 183.0,
+    "h100e": 289540.17180394137,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [DCD article on the site breaking ground](https://www.datacenterdynamics.com/en/news/google-breaks-ground-on-mesa-data-center-campus-in-arizona/)- [DCD article on announcement to build Building 2](https://www.datacenterdynamics.com/en/news/google-files-to-build-second-data-center-at-mesa-campus-in-arizona/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G011",
+    "name": "Colossus 1",
+    "owner": "SpaceXSI",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Memphis",
+    "state": "Tennessee",
+    "country": "United States",
+    "longitude": -90.15546,
+    "latitude": 35.060166,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 340.0,
+    "h100e": 275795.85649317835,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [May 2025 Electricity Provider Disclosure](https://drive.google.com/file/d/17WAFThn95X85ebzA_e19R1zYycwFzAl2/view?usp=sharing)- [July 2025 Permit for Gas Turbines](https://www.scribd.com/document/883601734/01156-01PC-070225-Permit)- [Southern Environmental Law Center Gas Permit Appeal, with additional satellite images](https://cdn.arstechnica.net/wp-content/uploads/2025/07/NAACP-and-YGGs-xAI-Air-Permit-Appeal-7-15-2025.pdf)- [Disclosure on X (formerly Twitter) by Elon Musk of the breakdown of GPUs](https://archive.is/oHQSA)- [Anthropic announcement](https://www.anthropic.com/news/higher-limits-spacex)",
+    "notes": "In May 2026, Anthropic signed an agreement with SpaceX to use all of Colossus 1\u2019s compute capacity."
+  },
+  {
+    "site_id": "G012",
+    "name": "Google Council Bluffs (East)",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Council Bluffs",
+    "state": "Iowa",
+    "country": "United States",
+    "longitude": -95.796854,
+    "latitude": 41.172774,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 237.0,
+    "h100e": 255684.68923698837,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Construction permit application form with site address](https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_A_GEN&SUBMISSION_RID=67330&SUB_FORM_RID=148293)- [Construction permit application form with backup generator data](https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_E_EU&SUBMISSION_RID=67330&SUB_FORM_RID=148297) (believed to be for Building 3)",
+    "notes": ""
+  },
+  {
+    "site_id": "G013",
+    "name": "CoreWeave Denton TX",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "likely"
+      }
+    ],
+    "city": "Denton",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -97.210031,
+    "latitude": 33.214793,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 262.0,
+    "h100e": 252652.85497726125,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Core Scientific - CoreWeave Announce 1.2B expansion in Denton, TX](https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site)- [Core Scientific - Denton Datacenter Official Site](https://corescientific.com/high-density-data-centers/denton-texas/)- [TMF - Core Scientific Q4 2025 Earnings Transcript](https://www.fool.com/earnings/call-transcripts/2026/03/02/core-scientific-corz-q4-2025-earnings-transcript/)- [WSJ - plans to rent to OpenAI](https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321)",
+    "notes": "Formerly a bitcoin-mining facility, the Denton site is being repurposed to run AI workloads on CoreWeave\u2019s GPUs, with 260 MW contracted to CoreWeave."
+  },
+  {
+    "site_id": "G014",
+    "name": "Amazon Madison Mega Site",
+    "owner": "Amazon",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Canton",
+    "state": "Mississippi",
+    "country": "United States",
+    "longitude": -90.091326,
+    "latitude": 32.597425,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 284.0,
+    "h100e": 214348.14354550533,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Air Construction Permit](https://drive.google.com/file/d/1lhSF8TBA7fNWsN4Onj-nfL7X_-BN573r/view?usp=sharing)- [Backup diesel generator referenced in the permit](https://www.cat.com/en_US/products/new/power-systems/electric-power/diesel-generator-sets/117341.html)- [New York Times article on Project Rainier](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)- [SemiAnalysis article with imagery of Canton they have labeled as being an Amazon-Anthropic collaboration](https://newsletter.semianalysis.com/p/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion)",
+    "notes": "This site is likely part of the Anthropic\u2013Amazon Project Rainier collaboration."
+  },
+  {
+    "site_id": "G015",
+    "name": "Google Bristow",
+    "owner": "Google",
+    "owner_confidence": "unclassified",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "unclassified"
+      }
+    ],
+    "city": "Bristow",
+    "state": "Virginia",
+    "country": "United States",
+    "longitude": -77.582982,
+    "latitude": 38.777169,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 238.0,
+    "h100e": 209860.53562405254,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "[Google Environmental Report](https://sustainability.google/reports/google-2026-environmental-report/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G016",
+    "name": "Microsoft Goodyear",
+    "owner": "Microsoft",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "likely"
+      },
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Goodyear",
+    "state": "Arizona",
+    "country": "United States",
+    "longitude": -112.366342,
+    "latitude": 33.412036,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 202.0,
+    "h100e": 205154.11824153614,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Maricopa County map](https://gis.maricopa.gov/aqd/recordsviewer/#) showing PHX-10 and PHX-11 buildings owned by Microsoft- [Dust control permit](https://edms.maricopa.gov/aq/api/Document/AQizTh7Ek3Odb1UYnAFQc%C3%81Z0k59aCsu4%C3%890gw6xcPqnhTfYtG7scD%C3%89BewWyX4qdzXFk%C3%81xL9%C3%89VthN71ODAxZuKKeU%3D/) for project titled \"MICROSOFT CORPORATION PHX10-11 DATA CENTER OFFSITE IMPROVEMENTS\"- [SemiAnalysis article](https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed) that includes similar estimates and associates the data center with OpenAI",
+    "notes": "In May 2026, Microsoft indicated that its own MAI-Thinking-1 model was trained at the Goodyear facility."
+  },
+  {
+    "site_id": "G017",
+    "name": "Google Kansas City East",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "Kansas City",
+    "state": "Missouri",
+    "country": "United States",
+    "longitude": -94.464218,
+    "latitude": 39.17962,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 105.0,
+    "h100e": 202627.5896917635,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Hunt Midwest Business Center press release linking data center with Google](https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/)- [DCD article on the site](https://www.datacenterdynamics.com/en/news/google-files-project-plan-for-data-center-in-kansas-city-missouri/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G018",
+    "name": "AWS New Albany",
+    "owner": "Amazon",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "New Albany",
+    "state": "Ohio",
+    "country": "United States",
+    "longitude": -82.740316,
+    "latitude": 40.105901,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 213.0,
+    "h100e": 201111.67256189996,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [City of New Albany Project Updates](https://newalbanyohio.org/community-development/project-updates/)- [New Albany Community Development Report - Dec. 2024](https://newalbanyohio.org/wp-content/uploads/2025/01/CD-2024-12.pdf)- [New Albany Community Development Report - Aug. 2025](https://newalbanyohio.org/wp-content/uploads/2025/09/CD-2025-08.pdf)- [Article reporting first signing of the project](https://www.wosu.org/politics-government/2023-09-20/new-albany-city-council-approves-tax-break-deal-for-3-5-billion-amazon-data-center-project)",
+    "notes": "We believe this is part of the broader AWS Ohio region, potentially serving many different users. We only include the capacity taken up by leading AI chips, which we estimate to be 44%."
+  },
+  {
+    "site_id": "G019",
+    "name": "Google Omaha",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Omaha",
+    "state": "Nebraska",
+    "country": "United States",
+    "longitude": -96.088876,
+    "latitude": 41.341728,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 237.0,
+    "h100e": 198585.14401212733,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Draft basis of air permit with details of cooling towers](https://drive.google.com/file/d/1KN7o-wQOyt1UEud8wpM8PymXJF479r0n/view?usp=sharing)- Google\u2019s [2025 Environmental Report](https://sustainability.google/reports/google-2025-environmental-report/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G020",
+    "name": "Google Lincoln",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "country": "United States",
+    "longitude": -96.653639,
+    "latitude": 40.90705,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 141.0,
+    "h100e": 197574.53259221828,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Army corps land use application with a useful construction plan diagram, split across 7 phases](https://upload.wikimedia.org/wikipedia/commons/2/25/Application_no-_NWO-2019-00110-WEH_-_USACE-p16021coll15-1525.pdf)- [DCD article on the start of site construction](https://www.datacenterdynamics.com/en/news/work-on-data-center-in-lincoln-nebraska-finally-starting/)- [Rezoning approval, stating 75 ft building height](https://lnklan.granicus.com/DocumentViewer.php?file=lnklan_bfe1e3023d49404348f26355e113cb22.pdf&view=1)",
+    "notes": ""
+  },
+  {
+    "site_id": "G021",
+    "name": "Google The Dalles",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "The Dalles",
+    "state": "Oregon",
+    "country": "United States",
+    "longitude": -121.20715,
+    "latitude": 45.624266,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 154.0,
+    "h100e": 175341.0813542193,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Permit confirming this is a data center and the internal square footage](https://static1.squarespace.com/static/5e9a1686f716835e61268f2a/t/63659cb153e00407c9cd0bc9/1667603634454/SPR%2B512-22%2C%2BNOD%2C%2B10-31-22%2B%281%29.pdf)- [Google PUE data listing the \"3rd facility\" from Q3 2025](https://datacenters.google/efficiency/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G022",
+    "name": "Amazon Ridgeland",
+    "owner": "Amazon",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Ridgeland",
+    "state": "Mississippi",
+    "country": "United States",
+    "longitude": -90.189789,
+    "latitude": 32.410464,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 228.0,
+    "h100e": 171298.6356745831,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Air Construction Permit](https://drive.google.com/file/d/1dQ5Pxl7rQAHLvHoTYrpOX32WAolo46d7/view?usp=sharing)- [Permit review document](https://drive.google.com/file/d/1myQ6BYqqzcfsWwv41tufHobvA8T3qo_d/view?usp=sharing)- [Backup diesel generator referenced in the permit](https://www.cat.com/en_US/products/new/power-systems/electric-power/diesel-generator-sets/117341.html)- [New York Times article on Project Rainier](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)",
+    "notes": "This site is likely part of the Anthropic\u2013Amazon Project Rainier collaboration."
+  },
+  {
+    "site_id": "G023",
+    "name": "Coreweave Helios",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Afton",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -100.869855,
+    "latitude": 33.775063,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 132.0,
+    "h100e": 159551.768236855,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Galaxy Q3 financial results with power capacity timeline](https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx)- [Permit review with details on backup generators and power capacity](https://records.tceq.texas.gov/cs/idcplg?IdcService=TCEQ_EXTERNAL_SEARCH_GET_FILE&dID=8711478&Rendition=Web#:~:text=Galaxy%20Helios%20I%20LLC%20owns,are%20the%20basis%20of%20the)- [3D renderings of Helios Building 1 on Galaxy's website, showing generators and chillers](https://www.galaxy.com/data-centers)- [TDLR record with Building 1 construction costs and end date](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012175)",
+    "notes": "Helios is retrofitted from a former crypto-mining site owned by Galaxy, which has an additional 2.7 GW of capacity under study, though not expected before 2029."
+  },
+  {
+    "site_id": "G024",
+    "name": "Microsoft Project Osmium",
+    "owner": "Microsoft",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Cumming",
+    "state": "Iowa",
+    "country": "United States",
+    "longitude": -93.789387,
+    "latitude": 41.497037,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 190.0,
+    "h100e": 155634.15866599293,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [SemiAnalysis article with IT power estimations and detailing usage by OpenAI for training GPT 3.5](https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed)- [DCD Article on site expansion](https://www.datacenterdynamics.com/en/news/microsoft-granted-permit-for-new-data-center-in-des-moines-iowa/)- [MISO Announcement reporting power for newest buildings, likely an overestimate](https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf)- [Microsoft article on data centers in Iowa used by OpenAI](https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/?msockid=23bbdd21a02166402e27c929a1a567ce)",
+    "notes": "One building reportedly contained roughly 25,000 A100s used by OpenAI to train GPT-3.5."
+  },
+  {
+    "site_id": "G025",
+    "name": "Google Midlothian",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "Midlothian",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -97.061373,
+    "latitude": 32.442484,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 103.0,
+    "h100e": 143580.85118746842,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Site Map and Permit](https://ecode360.com/MI6405/laws/LF1665983.pdf)- [City Council Presentation](https://archive-stream.granicus.com/OnDemand/_definst_/mp4:swagitVideo/midlothiantx/eefcd9e0-4c12-41ba-986a-165a20124c72.mp4/playlist.m3u8)",
+    "notes": ""
+  },
+  {
+    "site_id": "G026",
+    "name": "Google Storey County",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Clark",
+    "state": "Nevada",
+    "country": "United States",
+    "longitude": -119.430178,
+    "latitude": 39.494683,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 161.0,
+    "h100e": 133906.01313794847,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Air quality permit application listing emergency generators and a small \"R&D\" fuel cell plant](https://ndep-onbase.nv.gov/api/Document/AeFo%C3%89pjclbkomJ7CWpPryLOjA6FQT9HFrkSuMWbMXTpKCzSR%C3%81W1f8zzFhGhik1iZCcNSpuTRRqNXD1inrrpBxtA%3D/) (via [Aterio](https://www.aterio.io/))- [Google data center page](https://datacenters.google/locations/storey-county-nevada/)",
+    "notes": "Storey County is one of Google\u2019s rare dry-cooled campuses, likely an adaptation to water-scarce Nevada."
+  },
+  {
+    "site_id": "G027",
+    "name": "Google Lancaster",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "Lancaster",
+    "state": "Ohio",
+    "country": "United States",
+    "longitude": -82.689337,
+    "latitude": 39.725338,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 137.0,
+    "h100e": 130368.8731682668,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [DCD article discussing the announcement of this site](https://www.datacenterdynamics.com/en/news/google-to-build-two-more-data-centers-in-columbus-ohio/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G028",
+    "name": "Google Waltham Cross",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Cheshunt",
+    "state": "Hertfordshire",
+    "country": "United Kingdom",
+    "longitude": -0.049044,
+    "latitude": 51.69543,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 88.0,
+    "h100e": 123799.89893885801,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Google \u2014 Waltham Cross data centre page](https://datacenters.google/locations/waltham-cross/)- [Google opening announcement (Sept 2025)](https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy)- [Project Saracen scoping report (Broxbourne planning application ref 07/18/1181/O) ](https://www.broxbourne.gov.uk/downloads/file/51/project-saracen-scoping-report-for-submission-full-13-08-18-compressed-v2)- [Planning application description (CPRE Hertfordshire)](https://www.cpreherts.org.uk/resources/land-at-maxwells-farm-west-great-cambridge-road-cheshunt-hertfordshire/)",
+    "notes": "The facility uses advanced air-cooling instead of water-cooling to minimize water use, and is equipped for off-site heat recovery \u2014 capturing waste heat to warm nearby homes, schools and businesses for free."
+  },
+  {
+    "site_id": "G029",
+    "name": "Google Arcola",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "Arcola",
+    "state": "Virginia",
+    "country": "United States",
+    "longitude": -77.531595,
+    "latitude": 38.941889,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 77.0,
+    "h100e": 108135.42193026781,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Google Investing $1B To Improve Northern Virginia Data Centers (via Aterio)](https://www.bisnow.com/national/news/data-center/google-investing-1b-to-improve-northern-virginia-data-centers-124025)",
+    "notes": ""
+  },
+  {
+    "site_id": "G030",
+    "name": "Google Red Oak",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "Red Oak",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -96.793514,
+    "latitude": 32.537672,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 77.0,
+    "h100e": 108135.42193026781,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Media coverage confirming location, project name, investment size, and some timing](https://www.mysanantonio.com/business/article/google-texas-data-center-21236627.php)- [Google PUE data listing the Red Oak site from Q1 2026](https://datacenters.google/efficiency/)",
+    "notes": "Red Oak is unusual for mixing cooling types \u2014 one building uses dry coolers while another uses Google\u2019s standard evaporative cooling towers."
+  },
+  {
+    "site_id": "G031",
+    "name": "Google Papillion",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Papillion\n",
+    "state": "Nebraska",
+    "country": "United States",
+    "longitude": -96.149056,
+    "latitude": 41.135998,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 237.0,
+    "h100e": 100555.83628094998,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Draft basis of air permit with details of cooling towers](https://drive.google.com/file/d/1nONzuLnpMPST0bOINDKXmSZ0ANlynYY0/view?usp=sharing)- Google\u2019s [2025 Environmental Report](https://sustainability.google/reports/google-2025-environmental-report/) Page 109.",
+    "notes": ""
+  },
+  {
+    "site_id": "G032",
+    "name": "CoreWeave Ellendale ND",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Ellendale",
+    "state": "North Dakota",
+    "country": "United States",
+    "longitude": -98.572517,
+    "latitude": 46.015304,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 68.0,
+    "h100e": 93481.55634158666,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Applied Digital Announces 250MW AI Data Center Lease With CoreWeave](https://ir.applieddigital.com/news-events/press-releases/detail/123/applied-digital-announces-250mw-ai-data-center-lease-with)- [SEC 8k Filing with Applied Digital](https://ir.applieddigital.com/sec-filings/all-sec-filings/content/0001641172-25-013199/form8-k.htm)- [Applied Digital Delivers Second Building at Polaris Forge 1](https://ir.applieddigital.com/news-events/press-releases/detail/157/applied-digital-delivers-second-building-at-polaris-forge-1)",
+    "notes": "Applied Digital\u2019s two roughly 15-year leases with CoreWeave cover 400 MW across three buildings, an initial contract worth about $7 billion."
+  },
+  {
+    "site_id": "G033",
+    "name": "CoreWeave Chester VA",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Chester",
+    "state": "Virginia",
+    "country": "United States",
+    "longitude": -77.329515,
+    "latitude": 37.359101,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 82.0,
+    "h100e": 88428.49924204143,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Chirisa secures $200 million loan to fit out VA Data center for CoreWeave](https://www.datacenterdynamics.com/en/news/chirisa-secures-200-million-loan-to-fit-out-virginia-data-center-for-coreweave/)- [Blue Owl-led JV secures $750m to build out data centers for CoreWeave](https://www.datacenterdynamics.com/en/news/blue-owl-led-jv-secures-750m-to-build-out-data-centers-for-coreweave/)- [Chirisa offers former Capital One data center in Virginia to hyperscalers](https://www.datacenterdynamics.com/en/news/chirisa-offers-former-capital-one-data-center-in-virginia-to-hyperscalers/)",
+    "notes": "Chirisa secured $200 million to fit out this CoreWeave-leased facility, reported as a 27 MW site on a 12-year lease."
+  },
+  {
+    "site_id": "G034",
+    "name": "AWS Berwick",
+    "owner": "Amazon",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Berwick",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "longitude": -76.148788,
+    "latitude": 41.085052,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 108.0,
+    "h100e": 81354.21930267812,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [NYT reporting that one of the Project Rainier sites may be in Pennsylvania](https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html)- [Talen SEC filing detailing the $650M sale of the Cumulus data center campus to AWS](https://www.sec.gov/Archives/edgar/data/1622536/000162828024036935/tln-20240630.htm)- [Pennsylvania PUC filing describing the planned 16-building AWS data center development](https://www.puc.pa.gov/pcdocs/1861638.pdf)- [SRBC filing covering AWS campus expansion and water-use plans](https://www.srbc.gov/about/news/docs/2025-159-final-public-comment-responses-20260128.pdf) ",
+    "notes": "We speculate that this campus is a Project Rainier site used by Anthropic because the New York Times reported a Project Rainier site may be in Pennsylvania, and like other confirmed or suspected Project Rainier sites, it is not listed as a public AWS Region."
+  },
+  {
+    "site_id": "G035",
+    "name": "CoreWeave Marble NC",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Marble",
+    "state": "North Carolina",
+    "country": "United States",
+    "longitude": -83.916072,
+    "latitude": 35.187472,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 65.0,
+    "h100e": 78827.6907529055,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Core Scientific - Q1 2026 Fiscal Earnings Call](https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-26-031246/q1fy26earningsdeck.htm)- [Core Scientific - Official Marble, NC Datacenter page](https://corescientific.com/high-density-data-centers/marble-nc/)- [Core Scientific - Q1 2025 Earnings Presentation](https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-023161/exhibit992-q12025earning.htm)- [Core Scientific - June 2024 Investor and Analyst Day](https://www.sec.gov/Archives/edgar/data/1839341/000162828024027821/corescientificinvestorda.htm)",
+    "notes": "Marble is a former crypto-mining facility that Core Scientific converted to dense GPU hosting, handing the full contracted 65 MW to CoreWeave by May 2026."
+  },
+  {
+    "site_id": "G036",
+    "name": "Microsoft SAT40",
+    "owner": "Microsoft",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "San Antonio",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -98.804239,
+    "latitude": 29.415369,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 75.0,
+    "h100e": 64679.13087417888,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [TDLR for SAT40 (Building 2)](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2023013247)- [TDLR for a set of three long buildings, which includes the first building we believe is for AI (Building 1)](https://www.tdlr.texas.gov/TABS/Search/Project/EABPRJB8824650)",
+    "notes": ""
+  },
+  {
+    "site_id": "G037",
+    "name": "Microsoft-Nebius New Jersey",
+    "owner": "Nebius",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "likely"
+      }
+    ],
+    "city": "Vineland",
+    "state": "New Jersey",
+    "country": "United States",
+    "longitude": -75.016755,
+    "latitude": 39.426752,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 50.0,
+    "h100e": 56846.89236988378,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Nebius: up to 300 MW capacity at new New Jersey data center](https://nebius.com/newsroom/nebius-accelerates-us-expansion-adding-up-to-300-mw-capacity-at-new-data-center-in-new-jersey)- [DataOne and Nebius partner for 300 MW AI data center (Data Centre Magazine)](https://datacentremagazine.com/articles/dataone-and-nebius-partner-for-new-300mw-ai-data-centre)- [Microsoft secures 100,000 NVIDIA GB300 via Nebius deal (Tom's Hardware)](https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-inks-usd33-billion-in-deals-with-neoclouds-like-nebius-coreweave-nebius-deal-alone-secures-100-000-nvidia-gb300-chips-for-internal-use)- [DataOne CEO on first 50 MW delivery to Nebius (LinkedIn)](https://www.linkedin.com/feed/update/urn:li:activity:7367650153555591168/)- [Large data center nears completion in Vineland (Cape May County Herald)](https://capemaycountyherald.com/article/large-data-center-nears-completion-in-vineland/)- [SemiAnalysis: Stop Saying Half of 2026 US Datacenter Capacity Is Canceled](https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter)",
+    "notes": ""
+  },
+  {
+    "site_id": "G038",
+    "name": "CoreWeave Norway",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "\u00d8vreb\u00f8",
+    "state": "Agder",
+    "country": "Norway",
+    "longitude": 7.898417,
+    "latitude": 58.258792,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 42.0,
+    "h100e": 50773.11773623042,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [CoreWeave/Bulk N01 partnership announcement](https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure)- [Bulk N01 expansion announcement](https://bulkinfrastructure.com/newsroom/bulk-data-centers-unveils-plan-for-data-center-expansion-following-unprecedented-demand)- [Bulk N01 campus brochure with 5-data-center plan](https://bulkinfrastructure.com/uploads/N01-Campus_Brochure_May24.pdf)",
+    "notes": ""
+  },
+  {
+    "site_id": "G039",
+    "name": "Nebius Mantsala",
+    "owner": "Nebius",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Mantsala",
+    "state": "Uusimaa",
+    "country": "Finland",
+    "longitude": 25.260475,
+    "latitude": 60.629345,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 75.0,
+    "h100e": 48527.92066700354,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Nebius to triple capacity of Mantsala campus to 75 MW](https://nebius.com/newsroom/nebius-to-triple-capacity-at-finland-data-center-to-75-mw)- [Nebius announcing deployment of first GB300 NVL72 systems in Europe](https://nebius.com/blog/posts/first-live-nvidia-gb300-nvl72-deployment-in-europe)",
+    "notes": "Approximately 20,000 kWh are recovered annually from the Mantsala campus which then goes back to heating around 2500 nearby homes."
+  },
+  {
+    "site_id": "G040",
+    "name": "Microsoft SAT14",
+    "owner": "Microsoft",
+    "owner_confidence": "confident",
+    "users": [],
+    "city": "San Antonio",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -98.680863,
+    "latitude": 29.47523,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 47.0,
+    "h100e": 45174.33046993431,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Phase 1 TDLR](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2021019142)- [Phase 2 TDLR](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2021019471)- [Phase 3 TDLR](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2021019588)- [Phase 4 TDLR](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2021019686)",
+    "notes": ""
+  },
+  {
+    "site_id": "G041",
+    "name": "CoreWeave Dalton 1 & 2",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Dalton",
+    "state": "Georgia",
+    "country": "United States",
+    "longitude": -84.951047,
+    "latitude": 34.713184,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 28.0,
+    "h100e": 32238.504295098533,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Core Scientific page](https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/)- [SEC filing with power utility information](https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001140361-25-039864/0001140361-25-039864.pdf)- [DCD article](https://www.datacenterdynamics.com/en/news/core-scientific-plans-new-ai-data-centers-in-dalton-georgia/)- [Core Scientific presentation](https://www.sec.gov/Archives/edgar/data/1839341/000162828024027821/corescientificinvestorda.htm)",
+    "notes": "Core Scientific bought the Dalton site as a vacant factory in 2018, and by 2021 it was already described as a DGX-Ready AI facility."
+  },
+  {
+    "site_id": "G042",
+    "name": "Start Campus Sines Data Campus",
+    "owner": "Nscale",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Sines",
+    "state": "Set\u00fabal",
+    "country": "Portugal",
+    "longitude": -8.812721,
+    "latitude": 37.934973,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 33.0,
+    "h100e": 31834.259727134915,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Website for the site](https://www.startcampus.pt/sines)- [Factsheet for the full site](https://23712035.hs-sites.com/hubfs/SINES%20DC_1.2%20GW%20DC%20Campus_V2.pdf?hsCtaAttrib=194868835084)- [Article detailing Microsoft collaboration and GPU amounts](https://lp.startcampus.pt/start-campus-hosts-eus-first-nvidia-gb300-chips-with-nscale-for-microsoft)",
+    "notes": "The first operational building at this Portuguese campus is already supporting Microsoft, with the full six-building site planned to reach 1.2 GW by 2030."
+  },
+  {
+    "site_id": "G043",
+    "name": "xAI QTS Atlanta",
+    "owner": "SpaceXSI",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "SpaceXSI",
+        "source_label": "SpaceXAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Atlanta",
+    "state": "Georgia",
+    "country": "United States",
+    "longitude": -84.419437,
+    "latitude": 33.778253,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 17.32971,
+    "h100e": 11470.43961596766,
+    "operating_capacity": true,
+    "source_operational_flag": true,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Develop Fulton bond fact sheet: X Corp Generative AI Equipment Project (Jan 23, 2024)](https://www.developfultoncounty.com/meetings-and-minutes_239_547601452.pdf)- [Business Insider: Elon Musk's new Atlanta data center for xAI has $700 million in AI equipment](https://www.businessinsider.com/xai-elon-musk-x-new-atlanta-data-center-2025-2)- [Fortune: Elon Musk's xAI is sharing X's equipment at its Atlanta data center (Jan 24, 2025)](https://fortune.com/2025/01/24/elon-musk-xai-sharing-x-equipment-gpus-datacenter-georgia-tax-breaks-documents/)",
+    "notes": "This is xAI's second and far smaller data center: its 12,448 GPUs are a fraction of the roughly 200,000 at its Memphis Colossus 1 supercluster."
+  },
+  {
+    "site_id": "G044",
+    "name": "Anthropic Barber Lake",
+    "owner": "Cipher Mining",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Anthropic",
+        "source_label": "Anthropic",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Colorado City",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -100.919813,
+    "latitude": 32.398066,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Cipher signs 168 MW AI hosting deal with Fluidstack, Google backs it (Sep 2025)](https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/Cipher-Mining-Signs-168-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html)- [Cipher adds 56 MW gross to reach 300 MW at Barber Lake (Nov 2025)](https://www.globenewswire.com/news-release/2025/11/20/3191801/0/en/Cipher-Mining-Signs-Additional-56-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html)- [Cipher 8-K exhibit: 207 MW total critical IT load (SEC, Nov 2025)](https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm)- [Anthropic to expand use of Google Cloud TPUs (Oct 2025)](https://www.googlecloudpresscorner.com/2025-10-23-Anthropic-to-Expand-Use-of-Google-Cloud-TPUs-and-Services)- [Anthropic $50B US AI infrastructure with Fluidstack (Nov 2025)](https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure)- [DCD: Cipher secures Fluidstack as customer, Google as investor](https://www.datacenterdynamics.com/en/news/cipher-mining-secures-fluidstack-as-a-customer-and-google-as-an-investor/)- [Air quality permit listing 60 x 3 MW plus 60 x 3.1MW backup generators](https://drive.google.com/file/d/1hzNlH8549ppuCwvKfMo--3PsD-hYBJDa/view?usp=sharing)",
+    "notes": "Barber Lake runs Google TPUs rather than NVIDIA GPUs: Google both supplies the chips and helped bankroll the buildout, taking an equity stake in the developer so its silicon could be deployed for Anthropic through Fluidstack."
+  },
+  {
+    "site_id": "G045",
+    "name": "CoreWeave Lancaster Greenfield site",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Lancaster",
+    "state": "Pennsylvania",
+    "country": "United States",
+    "longitude": -76.262179,
+    "latitude": 40.048139,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [CoreWeave announces plans to spend $6 billion on Lancaster data centers](https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-Pennsylvania/default.aspx)- [Machine Investment Group purchases two former printing press sites in Lancaster, Pennsylvania](https://www.datacenterdynamics.com/en/news/machine-investment-acquires-two-printing-press-sites-in-pennsylvania-plans-data-center-redevelopment/?utm_source=datacentermap.com)",
+    "notes": "The CoreWeave Lancaster data centers were formerly used as printing press sites."
+  },
+  {
+    "site_id": "G046",
+    "name": "CoreWeave Muskogee OK",
+    "owner": "CoreWeave",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Muskogee",
+    "state": "Oklahoma",
+    "country": "United States",
+    "longitude": -95.388473,
+    "latitude": 35.693636,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Core Scientific ground breaking announcement](https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center)- [Port Muskogee ground breaking announcement](https://www.portmuskogee.com/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center/)- [Air quality permit application](https://applications.deq.ok.gov/permitspublic/storedpermits/9138.pdf)",
+    "notes": "The planned second 82.5 MW building is currently unleased."
+  },
+  {
+    "site_id": "G047",
+    "name": "Crusoe Abilene Expansion",
+    "owner": "Microsoft",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "likely"
+      }
+    ],
+    "city": "Abilene",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -99.78198,
+    "latitude": 32.491884,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Bloomberg reporting that Oracle and OpenAI pulled out of expanding to these buildings, NVIDIA and Meta might replace them](https://www.bloomberg.com/news/articles/2026-03-06/oracle-and-openai-end-plans-to-expand-flagship-data-center)- [Air Permit Application for the buildings, featuring blueprints on p.391](https://www.tceq.texas.gov/assets/public/permitting/air/reports/applications/400428-ac.pdf) (via [Aterio](https://www.aterio.io/blog/stargate-files-for-phase-3-expansion-in-abilene))- [Partnership Announcement with Microsoft](https://x.com/mustafasuleyman/status/2037547756320141587)",
+    "notes": "Originally planned as an expansion of Stargate Abilene for OpenAI and Oracle, the site drew reported interest from NVIDIA and Meta before ultimately being acquired by Microsoft."
+  },
+  {
+    "site_id": "G048",
+    "name": "Goodnight",
+    "owner": "Google",
+    "owner_confidence": "speculative",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Claude",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -101.308629,
+    "latitude": 35.019714,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Amended tax abatement agreement, with updated blueprints on p.46](https://www.co.armstrong.tx.us/upload/page/5361/Amended_Restated_Consolidated%20Second%20Property%20Tax%20Abatement%20Agreement%20%20GNDC1_ArmstrongCounty.pdf)- [Original tax abatement agreement, with original blueprints and specs on the last page](https://drive.google.com/file/d/1ky5HhuhU8_JADNB2GziWa4WDRbTU4qtO/view?usp=sharing)- [TABS database, with \"Llano\" data centers in the city of Claude](https://www.tdlr.texas.gov/TABS/Search/)- [Press release reports Google investing in a new data center in Armstrong County](https://www.reuters.com/business/google-invest-40-billion-new-data-centers-texas-bloomberg-news-reports-2025-11-14/)- [Clean Air Act Initial Prevention of Significant Deterioration permit application.](https://drive.google.com/file/d/1sI8t1MzjDTAEnn-yY4zv3SiiTCpruzSQ/view?usp=drive_link)",
+    "notes": "Though named after the nearby locale of Goodnight, the data center is actually located in the town of Claude, Texas."
+  },
+  {
+    "site_id": "G049",
+    "name": "Google Cedar Rapids",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "country": "United States",
+    "longitude": -91.722371,
+    "latitude": 41.916991,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [MISO new load announcements](https://cdn.misoenergy.org/NEW%20LOAD%20ANNOUNCEMENTS%20IN%20MISO%20REGIONS%2012062024684954.pdf), featuring 600 MW for Google in Cedar Rapids- [Permit application](https://www.govonlinesaas.com/LCPH/EasyAir/Public/EnSuite/Shared/Pages/util/StreamDoc.ashx?id=260&type=attachment) detailing the number of buildings, cooling towers, and backup generators.",
+    "notes": "Permitting suggests Cedar Rapids will use more than twice as many cooling towers per building as Google\u2019s similar New Albany and Omaha sites, even though power per building appears largely unchanged."
+  },
+  {
+    "site_id": "G050",
+    "name": "Google Fort Wayne",
+    "owner": "Google",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "Google",
+        "source_label": "Google DeepMind",
+        "confidence": "speculative"
+      }
+    ],
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "country": "United States",
+    "longitude": -85.048857,
+    "latitude": 41.031772,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Google's plans for wetlands in Fort Wayne](https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/)- [Data center's diesel generators](https://www.thelocalfw.com/data-center-diesel-generators/)- [Project's history and tax abatement](https://www.thelocalfw.com/data-centers-secrecy-and-tax-abatements/)- [City Council approval](https://citycouncildocuments.acfw.net/documents/download/2023-12-19/R-23-12-02.pdf)",
+    "notes": "Fort Wayne is one of the first sites to use Google\u2019s new, larger data center design with expanded cooling, and is projected to draw roughly 1 GW of total facility power when completed in 2028."
+  },
+  {
+    "site_id": "G051",
+    "name": "Microsoft Narvik Norway",
+    "owner": "Nscale",
+    "owner_confidence": "likely",
+    "users": [
+      {
+        "entity": "Microsoft",
+        "source_label": "Microsoft",
+        "confidence": "likely"
+      }
+    ],
+    "city": "Bjerkvik",
+    "state": "Narvik",
+    "country": "Norway",
+    "longitude": 17.596333,
+    "latitude": 68.576278,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Nscale announcing more than 30.000 Rubin GPUs](https://www.nscale.com/press-releases/nscale-microsoft-norway)- [NScale announcing 230 initial MW and possibly an additional 290MW, mentioning 100.000 Nvidia GPUs](https://www.nscale.com/blog/stargate-norway-laying-the-foundation-for-the-future-of-ai)- [Local hydropower facilities will fulfill new demand at 4 to 5 cents per unit for electricity](https://time.com/article/2026/06/03/ai-norway-nscale-data-center/)",
+    "notes": "The data center campus will use local hydropower with electricity costs of 4 to 5 cents per unit versus up to 10 cents in other parts of Europe."
+  },
+  {
+    "site_id": "G052",
+    "name": "OpenAI Stargate Lordstown",
+    "owner": "Softbank",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Lordstown",
+    "state": "Ohio",
+    "country": "United States",
+    "longitude": -80.881228,
+    "latitude": 41.153112,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Announcement of 5 new Stargate sites mentioning Lordstown](https://www.datacenterdynamics.com/en/news/openai-announces-five-more-us-stargate-data-centers-with-oracle-and-softbank/)- [Water Quality Permitting stating that \u201cmanufacturing and assembly\u201d is the main purpose of the construction](https://drive.google.com/file/d/1VfWvb9unUXZs3u4zwBjZjQwtsu91y8i9/view?usp=drivesdk)- [Stormwater Permitting](https://drive.google.com/file/d/1xl4Ql2jdmKhcYFhn43ymM2TJ56Z8cInL/view?usp=drivesdk)",
+    "notes": "The Lordstown site centers on a former General Motors \u2014 now Foxconn \u2014 plant being retooled to manufacture data center equipment like NVIDIA servers."
+  },
+  {
+    "site_id": "G053",
+    "name": "OpenAI Stargate Michigan",
+    "owner": "Oracle",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Benton",
+    "state": "Michigan",
+    "country": "United States",
+    "longitude": -83.884173,
+    "latitude": 42.121226,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Related Digital website for this site ](https://www.related-digital.com/michigan)- [Michigan Public Service Commission Energy Contract Approval, reports 1,383 MW as the site capacity](https://www.michigan.gov/mpsc/commission/news-releases/2025/12/18/mpsc-approves-dte-electric-energy-contracts-for-data-center)- [Air Permitting, calls the site Project Mitten, includes site map](https://drive.google.com/file/d/16ZucHKYmld7dLApSXNtbknOyagSn5E-r/view?usp=sharing)- [DTE Electric\u2019s contract approval ](https://mi-psc.my.site.com/sfc/servlet.shepherd/version/download/068cs00001MH71XAAT)- [Website with more details for locals about the site](https://www.thesalinebarn.com/)",
+    "notes": ""
+  },
+  {
+    "site_id": "G054",
+    "name": "OpenAI Stargate Milam",
+    "owner": "Softbank",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Burlington",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -97.010336,
+    "latitude": 30.996308,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Data Center Dynamics article on the site](https://www.datacenterdynamics.com/en/news/softbanks-sb-energy-to-build-and-operate-openais-12gw-stargate-data-center-in-milam-county-texas/)- [SB Energy article, source for 1.2 GW capacity ](https://sbenergy.com/openai-and-softbank-group-partner-with-sb-energy/)- [TDLR page for the first building of the site, indicating construction completion date](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026017746)",
+    "notes": ""
+  },
+  {
+    "site_id": "G055",
+    "name": "OpenAI Stargate New Mexico",
+    "owner": "Oracle",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Santa Teresa",
+    "state": "New Mexico",
+    "country": "United States",
+    "longitude": -106.68427,
+    "latitude": 31.820319,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Project Jupiter Website](https://projectjupitertogether.com/)- [Stormwater Permitting](https://drive.google.com/file/d/1vVKvPogq2TkeFn7ibnp0GNqz8aB4tZXz/view?usp=sharing)- [Oracle, BorderPlex and Bloom Energy to power Project Jupiter with fuel cell technology (Apr 27, 2026)](https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/)",
+    "notes": "Also known as Project Jupiter, the New Mexico campus will be powered by up to 2.45 GW of Bloom solid-oxide fuel cells, one of the world's largest fuel-cell microgrids."
+  },
+  {
+    "site_id": "G056",
+    "name": "OpenAI Stargate Shackelford",
+    "owner": "Oracle",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Abilene",
+    "state": "Texas",
+    "country": "United States",
+    "longitude": -99.548314,
+    "latitude": 32.543765,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Vantage data center page with power capacity, number of buildings, and first building timeline](https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx)- [OpenAI Stargate expansion announcement mentioning Shackelford site](https://openai.com/index/five-new-stargate-sites/)- [Vantage LinkedIn post connecting the data center to OpenAI Stargate](https://web.archive.org/web/20260226203340/https://www.linkedin.com/posts/vantage-data-centers_ai-digitalinfrastructure-stargate-activity-7405254667062124544-FOcd/?rcm=ACoAAAmuuF4BvsgagH4Z8-Z8-0LaBPPY6467cAs)- [TDLR filing for first building (other buildings are also on TDLR)](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024094)",
+    "notes": "Just 20 km from the original Abilene site, Shackelford is the second U.S. Stargate location, developed by Vantage under the name \"Frontier.\""
+  },
+  {
+    "site_id": "G057",
+    "name": "OpenAI Stargate UAE",
+    "owner": "G42",
+    "owner_confidence": "likely",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Abu Dhabi",
+    "state": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "longitude": 54.442782,
+    "latitude": 24.150287,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [News update with timelapse of construction](https://www.khaleejtimes.com/uae/stargate-uae-phase-1-in-two-years)- [Announcement of the (separate) 100 MW Khazna Ajman data center](https://khaznadatacenters.com/press-release/khazna-announces-the-uaes-first-ai-optimized-data-center-and-the-largest-in-its-portfolio-powering-the-nations-drive-toward-ai-leadership/), which started earlier and has a similar design to the Stargate buildings.- [News about the US approval of NVIDIA chips in the UAE](https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae)",
+    "notes": "Stargate UAE is the first Stargate cluster outside the U.S.; reported export agreements suggest G42 and/or Oracle can acquire 100,000 state-of-the-art NVIDIA chips per year."
+  },
+  {
+    "site_id": "G058",
+    "name": "OpenAI Stargate Wisconsin",
+    "owner": "Oracle",
+    "owner_confidence": "confident",
+    "users": [
+      {
+        "entity": "OpenAI",
+        "source_label": "OpenAI",
+        "confidence": "confident"
+      }
+    ],
+    "city": "Port Washington",
+    "state": "Wisconsin",
+    "country": "United States",
+    "longitude": -87.856036,
+    "latitude": 43.430405,
+    "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+    "it_mw": 0.0,
+    "h100e": 0.0,
+    "operating_capacity": false,
+    "source_operational_flag": false,
+    "snapshot_date": "2026-11-04",
+    "source_ids": [
+      "S15",
+      "S16"
+    ],
+    "sources": "- [Data center page on Vantage website](https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin)- [Environmental Analysis Summary](https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing)",
+    "notes": ""
+  }
+]

@@ -138,5 +138,115 @@
     "url": "https://epoch.ai/data/ai-chip-users-documentation/methodology",
     "locator": "Allocation boundaries; excludes capacity rented to others",
     "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S15",
+    "publisher": "Epoch AI",
+    "title": "AI data centers, selected CSV rows",
+    "published_or_updated": "2026-11-01",
+    "source_type": "research_estimate",
+    "url": "https://epoch.ai/data/ai-data-centers",
+    "locator": "CSV linked under Python Import; current power, owner and users",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S16",
+    "publisher": "Epoch AI",
+    "title": "AI Data Center Map, published campus points",
+    "published_or_updated": "2026-11-04 retrieval",
+    "source_type": "research_estimate",
+    "url": "https://epoch.ai/data/ai-data-centers/map",
+    "locator": "Server-rendered dataCenters props: lngLat, facts, user confidence",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S17",
+    "publisher": "Epoch AI",
+    "title": "AI data centers methodology",
+    "published_or_updated": "2026-11 retrieval",
+    "source_type": "research_methodology",
+    "url": "https://epoch.ai/data/data-centers-documentation/methodology",
+    "locator": "Coverage, estimation boundaries and user uncertainty",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S18",
+    "publisher": "Microsoft",
+    "title": "From Wisconsin to Atlanta: AI superfactory",
+    "published_or_updated": "2025-11-12",
+    "source_type": "company_announcement",
+    "url": "https://news.microsoft.com/source/features/ai/from-wisconsin-to-atlanta-microsoft-connects-datacenters-to-build-its-first-ai-superfactory/",
+    "locator": "Atlanta operation and network support for OpenAI, Microsoft AI and Copilot",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S19",
+    "publisher": "OpenAI",
+    "title": "Five new Stargate sites",
+    "published_or_updated": "2025-09-23; updated 2025-10-22",
+    "source_type": "company_announcement",
+    "url": "https://openai.com/index/five-new-stargate-sites/",
+    "locator": "Abilene live training/inference; additional sites planned",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S20",
+    "publisher": "Amazon",
+    "title": "AWS activates Project Rainier",
+    "published_or_updated": "retrieved 2026-11-04",
+    "source_type": "company_announcement",
+    "url": "https://www.aboutamazon.com/news/aws/aws-project-rainier-ai-trainium-chips-compute-cluster",
+    "locator": "Claude use; project spans multiple US data centers",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S21",
+    "publisher": "Google",
+    "title": "Oklahoma data center locations",
+    "published_or_updated": "retrieved 2026-11-04",
+    "source_type": "company_location_directory",
+    "url": "https://www.datacenters.google/locations/oklahoma/",
+    "locator": "Operating Pryor campus; does not assign a Gemini workload percentage",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S22",
+    "publisher": "Anthropic",
+    "title": "American AI infrastructure investment",
+    "published_or_updated": "2025-11-12",
+    "source_type": "company_announcement",
+    "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+    "locator": "Texas and New York expansion announcement; not all delivered capacity",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S23",
+    "publisher": "SpaceXSI",
+    "title": "Memphis Colossus overview",
+    "published_or_updated": "retrieved 2026-11-04",
+    "source_type": "company_announcement",
+    "url": "https://x.ai/memphis",
+    "locator": "Regional Grok infrastructure; historical description is not current exclusive tenancy",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S24",
+    "publisher": "Natural Earth / world-atlas",
+    "title": "World country geometry, 110m",
+    "published_or_updated": "version 2.0.2",
+    "source_type": "public_geographic_data",
+    "url": "https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json",
+    "locator": "Published TopoJSON for basemap; country outlines only",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S25",
+    "publisher": "US Census / us-atlas",
+    "title": "US state geometry, 10m",
+    "published_or_updated": "version 3.0.1",
+    "source_type": "public_geographic_data",
+    "url": "https://cdn.jsdelivr.net/npm/us-atlas@3.0.1/states-10m.json",
+    "locator": "Published TopoJSON state basemap",
+    "accessed_local_date": "2026-11-04"
   }
 ]

@@ -30,3 +30,11 @@ The owner table is a derived sum of chip-family medians, not a jointly modeled m
 Run `python scripts/validate.py` with Python 3.10 or later. No extra packages are required. It checks the local evidence tables, source references, and derivations without network access. Upstream CSV URLs and full-download hashes are in the retrieval manifest; only the selected rows/fields are preserved here. Those hashes identify the downloaded upstream versions but cannot reconstruct them.
 
 Epoch-derived data is attributed to Epoch AI; see the source register for licensing. This repository does not reproduce full company articles or filings.
+
+## Location research and pin map
+
+- [Location report and percentage definitions](research/03-server-locations-and-geographic-shares.md)
+- [Interactive pin map](maps/index.html) (download and open; GitHub shows source)
+- [Location CSV](data/geography_sites.csv), [GeoJSON](data/server-locations.geojson), and [capacity percentages](data/geography_capacity_shares.csv)
+
+Actual AI workload percentages are undisclosed. The map calculates only shares of the mapped owned-capacity subset and marks tenant uncertainty.

@@ -1,0 +1,2052 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.038567,
+          34.989288
+        ]
+      },
+      "properties": {
+        "site_id": "G001",
+        "name": "Colossus 2",
+        "owner": "SpaceXSI",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "confident"
+          },
+          {
+            "entity": "Cursor",
+            "source_label": "Cursor",
+            "confidence": "confident"
+          },
+          {
+            "entity": "SpaceXSI",
+            "source_label": "SpaceXAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Memphis",
+        "state": "Tennessee",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 946.0,
+        "h100e": 1111672.5618999496,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.785608,
+          32.501314
+        ]
+      },
+      "properties": {
+        "site_id": "G002",
+        "name": "OpenAI Stargate Abilene",
+        "owner": "Oracle",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Abilene",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 824.0,
+        "h100e": 1018696.3112683173,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.471226,
+          41.679359
+        ]
+      },
+      "properties": {
+        "site_id": "G003",
+        "name": "Anthropic-Amazon New Carlisle",
+        "owner": "Amazon",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "confident"
+          }
+        ],
+        "city": "New Carlisle",
+        "state": "Indiana",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 1037.0,
+        "h100e": 818428.4992420415,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.524524,
+          33.457192
+        ]
+      },
+      "properties": {
+        "site_id": "G004",
+        "name": "Microsoft Fairwater Atlanta",
+        "owner": "Microsoft",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "likely"
+          },
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "likely"
+          }
+        ],
+        "city": "Fayetteville",
+        "state": "Georgia",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 636.0,
+        "h100e": 768768.7220818596,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.323495,
+          36.24535
+        ]
+      },
+      "properties": {
+        "site_id": "G005",
+        "name": "Google Pryor (North)",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Pryor",
+        "state": "Oklahoma",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 368.0,
+        "h100e": 636685.1945426983,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915203,
+          42.683925
+        ]
+      },
+      "properties": {
+        "site_id": "G006",
+        "name": "Microsoft Fairwater Wisconsin",
+        "owner": "Microsoft",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "likely"
+          },
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "likely"
+          }
+        ],
+        "city": "Mount Pleasant",
+        "state": "Wisconsin",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 369.0,
+        "h100e": 445679.63617988885,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.996606,
+          39.849133
+        ]
+      },
+      "properties": {
+        "site_id": "G007",
+        "name": "Google Columbus",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Columbus",
+        "state": "Ohio",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 303.0,
+        "h100e": 331985.85144012125,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.767738,
+          40.056767
+        ]
+      },
+      "properties": {
+        "site_id": "G008",
+        "name": "Google New Albany",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "New Albany",
+        "state": "Ohio",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 333.0,
+        "h100e": 323900.9600808489,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.602038,
+          43.356428
+        ]
+      },
+      "properties": {
+        "site_id": "G009",
+        "name": "Anthropic Lake Mariner",
+        "owner": "AI XPV Platform",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "likely"
+          }
+        ],
+        "city": "Barker",
+        "state": "New York",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 210.0,
+        "h100e": 292829.71197574533,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.675872,
+          33.354578
+        ]
+      },
+      "properties": {
+        "site_id": "G010",
+        "name": "Google Mesa",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "Mesa",
+        "state": "Arizona",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 183.0,
+        "h100e": 289540.17180394137,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.15546,
+          35.060166
+        ]
+      },
+      "properties": {
+        "site_id": "G011",
+        "name": "Colossus 1",
+        "owner": "SpaceXSI",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Memphis",
+        "state": "Tennessee",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 340.0,
+        "h100e": 275795.85649317835,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.796854,
+          41.172774
+        ]
+      },
+      "properties": {
+        "site_id": "G012",
+        "name": "Google Council Bluffs (East)",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Council Bluffs",
+        "state": "Iowa",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 237.0,
+        "h100e": 255684.68923698837,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.210031,
+          33.214793
+        ]
+      },
+      "properties": {
+        "site_id": "G013",
+        "name": "CoreWeave Denton TX",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "likely"
+          }
+        ],
+        "city": "Denton",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 262.0,
+        "h100e": 252652.85497726125,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.091326,
+          32.597425
+        ]
+      },
+      "properties": {
+        "site_id": "G014",
+        "name": "Amazon Madison Mega Site",
+        "owner": "Amazon",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Canton",
+        "state": "Mississippi",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 284.0,
+        "h100e": 214348.14354550533,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.582982,
+          38.777169
+        ]
+      },
+      "properties": {
+        "site_id": "G015",
+        "name": "Google Bristow",
+        "owner": "Google",
+        "owner_confidence": "unclassified",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "unclassified"
+          }
+        ],
+        "city": "Bristow",
+        "state": "Virginia",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 238.0,
+        "h100e": 209860.53562405254,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.366342,
+          33.412036
+        ]
+      },
+      "properties": {
+        "site_id": "G016",
+        "name": "Microsoft Goodyear",
+        "owner": "Microsoft",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "likely"
+          },
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Goodyear",
+        "state": "Arizona",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 202.0,
+        "h100e": 205154.11824153614,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.464218,
+          39.17962
+        ]
+      },
+      "properties": {
+        "site_id": "G017",
+        "name": "Google Kansas City East",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "Kansas City",
+        "state": "Missouri",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 105.0,
+        "h100e": 202627.5896917635,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.740316,
+          40.105901
+        ]
+      },
+      "properties": {
+        "site_id": "G018",
+        "name": "AWS New Albany",
+        "owner": "Amazon",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "New Albany",
+        "state": "Ohio",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 213.0,
+        "h100e": 201111.67256189996,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.088876,
+          41.341728
+        ]
+      },
+      "properties": {
+        "site_id": "G019",
+        "name": "Google Omaha",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Omaha",
+        "state": "Nebraska",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 237.0,
+        "h100e": 198585.14401212733,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.653639,
+          40.90705
+        ]
+      },
+      "properties": {
+        "site_id": "G020",
+        "name": "Google Lincoln",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "Lincoln",
+        "state": "Nebraska",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 141.0,
+        "h100e": 197574.53259221828,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.20715,
+          45.624266
+        ]
+      },
+      "properties": {
+        "site_id": "G021",
+        "name": "Google The Dalles",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "The Dalles",
+        "state": "Oregon",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 154.0,
+        "h100e": 175341.0813542193,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.189789,
+          32.410464
+        ]
+      },
+      "properties": {
+        "site_id": "G022",
+        "name": "Amazon Ridgeland",
+        "owner": "Amazon",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Ridgeland",
+        "state": "Mississippi",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 228.0,
+        "h100e": 171298.6356745831,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.869855,
+          33.775063
+        ]
+      },
+      "properties": {
+        "site_id": "G023",
+        "name": "Coreweave Helios",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Afton",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 132.0,
+        "h100e": 159551.768236855,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.789387,
+          41.497037
+        ]
+      },
+      "properties": {
+        "site_id": "G024",
+        "name": "Microsoft Project Osmium",
+        "owner": "Microsoft",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Cumming",
+        "state": "Iowa",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 190.0,
+        "h100e": 155634.15866599293,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.061373,
+          32.442484
+        ]
+      },
+      "properties": {
+        "site_id": "G025",
+        "name": "Google Midlothian",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "Midlothian",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 103.0,
+        "h100e": 143580.85118746842,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.430178,
+          39.494683
+        ]
+      },
+      "properties": {
+        "site_id": "G026",
+        "name": "Google Storey County",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Clark",
+        "state": "Nevada",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 161.0,
+        "h100e": 133906.01313794847,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.689337,
+          39.725338
+        ]
+      },
+      "properties": {
+        "site_id": "G027",
+        "name": "Google Lancaster",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "Lancaster",
+        "state": "Ohio",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 137.0,
+        "h100e": 130368.8731682668,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.049044,
+          51.69543
+        ]
+      },
+      "properties": {
+        "site_id": "G028",
+        "name": "Google Waltham Cross",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Cheshunt",
+        "state": "Hertfordshire",
+        "country": "United Kingdom",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 88.0,
+        "h100e": 123799.89893885801,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.531595,
+          38.941889
+        ]
+      },
+      "properties": {
+        "site_id": "G029",
+        "name": "Google Arcola",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "Arcola",
+        "state": "Virginia",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 77.0,
+        "h100e": 108135.42193026781,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.793514,
+          32.537672
+        ]
+      },
+      "properties": {
+        "site_id": "G030",
+        "name": "Google Red Oak",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "Red Oak",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 77.0,
+        "h100e": 108135.42193026781,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.149056,
+          41.135998
+        ]
+      },
+      "properties": {
+        "site_id": "G031",
+        "name": "Google Papillion",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Papillion\n",
+        "state": "Nebraska",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 237.0,
+        "h100e": 100555.83628094998,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.572517,
+          46.015304
+        ]
+      },
+      "properties": {
+        "site_id": "G032",
+        "name": "CoreWeave Ellendale ND",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Ellendale",
+        "state": "North Dakota",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 68.0,
+        "h100e": 93481.55634158666,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.329515,
+          37.359101
+        ]
+      },
+      "properties": {
+        "site_id": "G033",
+        "name": "CoreWeave Chester VA",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Chester",
+        "state": "Virginia",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 82.0,
+        "h100e": 88428.49924204143,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.148788,
+          41.085052
+        ]
+      },
+      "properties": {
+        "site_id": "G034",
+        "name": "AWS Berwick",
+        "owner": "Amazon",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Berwick",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 108.0,
+        "h100e": 81354.21930267812,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.916072,
+          35.187472
+        ]
+      },
+      "properties": {
+        "site_id": "G035",
+        "name": "CoreWeave Marble NC",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Marble",
+        "state": "North Carolina",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 65.0,
+        "h100e": 78827.6907529055,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.804239,
+          29.415369
+        ]
+      },
+      "properties": {
+        "site_id": "G036",
+        "name": "Microsoft SAT40",
+        "owner": "Microsoft",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "San Antonio",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 75.0,
+        "h100e": 64679.13087417888,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.016755,
+          39.426752
+        ]
+      },
+      "properties": {
+        "site_id": "G037",
+        "name": "Microsoft-Nebius New Jersey",
+        "owner": "Nebius",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "likely"
+          }
+        ],
+        "city": "Vineland",
+        "state": "New Jersey",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 50.0,
+        "h100e": 56846.89236988378,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.898417,
+          58.258792
+        ]
+      },
+      "properties": {
+        "site_id": "G038",
+        "name": "CoreWeave Norway",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "\u00d8vreb\u00f8",
+        "state": "Agder",
+        "country": "Norway",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 42.0,
+        "h100e": 50773.11773623042,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.260475,
+          60.629345
+        ]
+      },
+      "properties": {
+        "site_id": "G039",
+        "name": "Nebius Mantsala",
+        "owner": "Nebius",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Mantsala",
+        "state": "Uusimaa",
+        "country": "Finland",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 75.0,
+        "h100e": 48527.92066700354,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.680863,
+          29.47523
+        ]
+      },
+      "properties": {
+        "site_id": "G040",
+        "name": "Microsoft SAT14",
+        "owner": "Microsoft",
+        "owner_confidence": "confident",
+        "users": [],
+        "city": "San Antonio",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 47.0,
+        "h100e": 45174.33046993431,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.951047,
+          34.713184
+        ]
+      },
+      "properties": {
+        "site_id": "G041",
+        "name": "CoreWeave Dalton 1 & 2",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Dalton",
+        "state": "Georgia",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 28.0,
+        "h100e": 32238.504295098533,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.812721,
+          37.934973
+        ]
+      },
+      "properties": {
+        "site_id": "G042",
+        "name": "Start Campus Sines Data Campus",
+        "owner": "Nscale",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Sines",
+        "state": "Set\u00fabal",
+        "country": "Portugal",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 33.0,
+        "h100e": 31834.259727134915,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.419437,
+          33.778253
+        ]
+      },
+      "properties": {
+        "site_id": "G043",
+        "name": "xAI QTS Atlanta",
+        "owner": "SpaceXSI",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "SpaceXSI",
+            "source_label": "SpaceXAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Atlanta",
+        "state": "Georgia",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 17.32971,
+        "h100e": 11470.43961596766,
+        "operating_capacity": true,
+        "source_operational_flag": true,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.919813,
+          32.398066
+        ]
+      },
+      "properties": {
+        "site_id": "G044",
+        "name": "Anthropic Barber Lake",
+        "owner": "Cipher Mining",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Anthropic",
+            "source_label": "Anthropic",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Colorado City",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.262179,
+          40.048139
+        ]
+      },
+      "properties": {
+        "site_id": "G045",
+        "name": "CoreWeave Lancaster Greenfield site",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Lancaster",
+        "state": "Pennsylvania",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.388473,
+          35.693636
+        ]
+      },
+      "properties": {
+        "site_id": "G046",
+        "name": "CoreWeave Muskogee OK",
+        "owner": "CoreWeave",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Muskogee",
+        "state": "Oklahoma",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.78198,
+          32.491884
+        ]
+      },
+      "properties": {
+        "site_id": "G047",
+        "name": "Crusoe Abilene Expansion",
+        "owner": "Microsoft",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "likely"
+          }
+        ],
+        "city": "Abilene",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.308629,
+          35.019714
+        ]
+      },
+      "properties": {
+        "site_id": "G048",
+        "name": "Goodnight",
+        "owner": "Google",
+        "owner_confidence": "speculative",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Claude",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.722371,
+          41.916991
+        ]
+      },
+      "properties": {
+        "site_id": "G049",
+        "name": "Google Cedar Rapids",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Cedar Rapids",
+        "state": "Iowa",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.048857,
+          41.031772
+        ]
+      },
+      "properties": {
+        "site_id": "G050",
+        "name": "Google Fort Wayne",
+        "owner": "Google",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "Google",
+            "source_label": "Google DeepMind",
+            "confidence": "speculative"
+          }
+        ],
+        "city": "Fort Wayne",
+        "state": "Indiana",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.596333,
+          68.576278
+        ]
+      },
+      "properties": {
+        "site_id": "G051",
+        "name": "Microsoft Narvik Norway",
+        "owner": "Nscale",
+        "owner_confidence": "likely",
+        "users": [
+          {
+            "entity": "Microsoft",
+            "source_label": "Microsoft",
+            "confidence": "likely"
+          }
+        ],
+        "city": "Bjerkvik",
+        "state": "Narvik",
+        "country": "Norway",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.881228,
+          41.153112
+        ]
+      },
+      "properties": {
+        "site_id": "G052",
+        "name": "OpenAI Stargate Lordstown",
+        "owner": "Softbank",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Lordstown",
+        "state": "Ohio",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.884173,
+          42.121226
+        ]
+      },
+      "properties": {
+        "site_id": "G053",
+        "name": "OpenAI Stargate Michigan",
+        "owner": "Oracle",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Benton",
+        "state": "Michigan",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.010336,
+          30.996308
+        ]
+      },
+      "properties": {
+        "site_id": "G054",
+        "name": "OpenAI Stargate Milam",
+        "owner": "Softbank",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Burlington",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.68427,
+          31.820319
+        ]
+      },
+      "properties": {
+        "site_id": "G055",
+        "name": "OpenAI Stargate New Mexico",
+        "owner": "Oracle",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Santa Teresa",
+        "state": "New Mexico",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.548314,
+          32.543765
+        ]
+      },
+      "properties": {
+        "site_id": "G056",
+        "name": "OpenAI Stargate Shackelford",
+        "owner": "Oracle",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Abilene",
+        "state": "Texas",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.442782,
+          24.150287
+        ]
+      },
+      "properties": {
+        "site_id": "G057",
+        "name": "OpenAI Stargate UAE",
+        "owner": "G42",
+        "owner_confidence": "likely",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Abu Dhabi",
+        "state": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.856036,
+          43.430405
+        ]
+      },
+      "properties": {
+        "site_id": "G058",
+        "name": "OpenAI Stargate Wisconsin",
+        "owner": "Oracle",
+        "owner_confidence": "confident",
+        "users": [
+          {
+            "entity": "OpenAI",
+            "source_label": "OpenAI",
+            "confidence": "confident"
+          }
+        ],
+        "city": "Port Washington",
+        "state": "Wisconsin",
+        "country": "United States",
+        "coordinate_precision": "published campus point; approximate, not server/building coordinates",
+        "it_mw": 0.0,
+        "h100e": 0.0,
+        "operating_capacity": false,
+        "source_operational_flag": false,
+        "snapshot_date": "2026-11-04",
+        "source_ids": [
+          "S15",
+          "S16"
+        ]
+      }
+    }
+  ]
+}

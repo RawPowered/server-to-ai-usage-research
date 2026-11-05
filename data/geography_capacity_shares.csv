@@ -1,0 +1,31 @@
+entity,site_id,site,it_mw,denominator_mw,pct_of_mapped_owned_it_mw,observation_date,scope,global_workload_pct,source_ids
+Amazon,G003,Anthropic-Amazon New Carlisle,1037.0,1870.0,55.454545,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Amazon,G014,Amazon Madison Mega Site,284.0,1870.0,15.187166,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Amazon,G018,AWS New Albany,213.0,1870.0,11.390374,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Amazon,G022,Amazon Ridgeland,228.0,1870.0,12.192513,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Amazon,G034,AWS Berwick,108.0,1870.0,5.775401,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G005,Google Pryor (North),368.0,2941.0,12.512751,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G007,Google Columbus,303.0,2941.0,10.302618,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G008,Google New Albany,333.0,2941.0,11.322679,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G010,Google Mesa,183.0,2941.0,6.222373,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G012,Google Council Bluffs (East),237.0,2941.0,8.058484,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G017,Google Kansas City East,105.0,2941.0,3.570214,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G019,Google Omaha,237.0,2941.0,8.058484,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G020,Google Lincoln,141.0,2941.0,4.794288,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G021,Google The Dalles,154.0,2941.0,5.236314,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G025,Google Midlothian,103.0,2941.0,3.50221,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G026,Google Storey County,161.0,2941.0,5.474328,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G027,Google Lancaster,137.0,2941.0,4.658279,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G028,Google Waltham Cross,88.0,2941.0,2.99218,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G029,Google Arcola,77.0,2941.0,2.618157,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G030,Google Red Oak,77.0,2941.0,2.618157,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Google,G031,Google Papillion,237.0,2941.0,8.058484,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Microsoft,G004,Microsoft Fairwater Atlanta,636.0,1519.0,41.869651,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Microsoft,G006,Microsoft Fairwater Wisconsin,369.0,1519.0,24.292298,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Microsoft,G016,Microsoft Goodyear,202.0,1519.0,13.298223,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Microsoft,G024,Microsoft Project Osmium,190.0,1519.0,12.508229,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Microsoft,G036,Microsoft SAT40,75.0,1519.0,4.937459,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+Microsoft,G040,Microsoft SAT14,47.0,1519.0,3.094141,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+SpaceXSI,G001,Colossus 2,946.0,1303.32971,72.583322,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+SpaceXSI,G011,Colossus 1,340.0,1303.32971,26.087029,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16
+SpaceXSI,G043,xAI QTS Atlanta,17.32971,1303.32971,1.329649,2026-11-04,confident_owner_positive_MW_sites_in_selected_Epoch_snapshot,,S15;S16

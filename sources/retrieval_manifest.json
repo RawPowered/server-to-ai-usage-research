@@ -12,5 +12,19 @@
     "retrieved_utc": "2026-11-05T04:14:01.773989+00:00",
     "upstream_sha256": "a42673451e91a9896ed285ec74f66442473c07f9fedc89695a75ef3e4701169c",
     "snapshot_scope": "Selected rows and numeric fields only; full upstream file not archived"
+  },
+  {
+    "source_id": "S15",
+    "url": "https://epoch.ai/data/data_centers/data_centers.csv",
+    "retrieved_utc": "2026-11-05T05:04:39.003850+00:00",
+    "upstream_sha256": "cc66e9295c6ec2bada6a1928fda19da59a600b0ce14b8df40caaab7a9efbafed",
+    "snapshot_scope": "Selected records normalized into geography_sites.json; full upstream response not committed"
+  },
+  {
+    "source_id": "S16",
+    "url": "https://epoch.ai/data/ai-data-centers/map",
+    "retrieved_utc": "2026-11-05T05:04:39.004041+00:00",
+    "upstream_sha256": "5036c0c3bdf1a500b562bcaee81faa6b03fdc887d6d992066f512cb1c8716856",
+    "snapshot_scope": "Selected records normalized into geography_sites.json; full upstream response not committed"
   }
 ]

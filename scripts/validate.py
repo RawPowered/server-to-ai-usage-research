@@ -29,3 +29,24 @@ for file in ROOT.rglob('*.md'):
         if '://' not in link and not link.startswith('#'):
             assert (file.parent/link.split('#')[0]).exists(), (file,link)
 print(f'PASS: {len(sources)} sources; {len(relationships)} relationships; ownership derivations; lab intervals; CSV structure; local file links.')
+
+if (ROOT/'data/geography_sites.json').exists():
+    locations=json.loads((ROOT/'data/geography_sites.json').read_text(encoding='utf-8'))
+    assert len({s['site_id'] for s in locations})==len(locations)
+    by_id={s['site_id']:s for s in locations}
+    for s in locations:
+        assert -180 <= s['longitude'] <= 180 and -90 <= s['latitude'] <= 90
+        assert s['it_mw'] >= 0
+        assert set(s['source_ids']) <= ids
+    percentages=rows('geography_capacity_shares.csv')
+    for entity in {r['entity'] for r in percentages}:
+        group=[r for r in percentages if r['entity']==entity]
+        denominator=sum(s['it_mw'] for s in locations if s['owner']==entity and s['owner_confidence']=='confident' and s['it_mw']>0)
+        assert abs(sum(float(r['pct_of_mapped_owned_it_mw']) for r in group)-100)<0.0001
+        for r in group:
+            assert by_id[r['site_id']]['it_mw']>0
+            assert float(r['denominator_mw'])==denominator
+            assert r['global_workload_pct']==''
+    geojson=json.loads((ROOT/'data/server-locations.geojson').read_text(encoding='utf-8'))
+    assert len(geojson['features'])==len(locations)
+    print(f'PASS: {len(locations)} campus pins; coordinates; source IDs; owner denominators; share totals; unknown workload shares; GeoJSON count.')
