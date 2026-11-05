@@ -1,0 +1,16 @@
+[
+  {
+    "source_id": "S01",
+    "url": "https://epoch.ai/data/ai_chip_owners_cumulative_by_designer.csv",
+    "retrieved_utc": "2026-11-05T04:14:01.773989+00:00",
+    "upstream_sha256": "4fbcba105f9c7d4f12c1d7374efdeb596a7379282357039691072e5948a17e08",
+    "snapshot_scope": "Selected rows and numeric fields only; full upstream file not archived"
+  },
+  {
+    "source_id": "S02",
+    "url": "https://epoch.ai/data/ai_chip_users_year_end_by_lab.csv",
+    "retrieved_utc": "2026-11-05T04:14:01.773989+00:00",
+    "upstream_sha256": "a42673451e91a9896ed285ec74f66442473c07f9fedc89695a75ef3e4701169c",
+    "snapshot_scope": "Selected rows and numeric fields only; full upstream file not archived"
+  }
+]

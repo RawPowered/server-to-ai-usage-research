@@ -1,0 +1,142 @@
+[
+  {
+    "source_id": "S01",
+    "publisher": "Epoch AI",
+    "title": "AI chip owners",
+    "published_or_updated": "2026-05-12",
+    "source_type": "research_estimate",
+    "url": "https://epoch.ai/data/ai-chip-owners",
+    "locator": "Downloads; Python Import; ownership and delivery caveats",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S02",
+    "publisher": "Epoch AI",
+    "title": "AI chip users",
+    "published_or_updated": "2026-09-09",
+    "source_type": "research_estimate",
+    "url": "https://epoch.ai/data/ai-chip-users",
+    "locator": "Python Import; downloadable year-end lab estimates",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S03",
+    "publisher": "Epoch AI / Josh You",
+    "title": "Introducing the AI Chip Users explorer",
+    "published_or_updated": "2026-09-09",
+    "source_type": "research_analysis",
+    "url": "https://epoch.ai/latest/introducing-the-ai-chip-users-explorer",
+    "locator": "End-2025 table; uncertainty and provider/user distinction",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S04",
+    "publisher": "Epoch AI",
+    "title": "Largest AI data centers ranked by power capacity",
+    "published_or_updated": "2026-11-04",
+    "source_type": "research_estimate",
+    "url": "https://epoch.ai/graphs/largest-ai-data-centers-by-power-capacity",
+    "locator": "Current IT power table; not company-wide totals",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S05",
+    "publisher": "Anthropic",
+    "title": "Anthropic and Amazon expand compute collaboration",
+    "published_or_updated": "2026-04-20",
+    "source_type": "company_announcement",
+    "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+    "locator": "Current Trainium2 use; up-to-5-GW deal; year-end target",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S06",
+    "publisher": "Anthropic",
+    "title": "Higher usage limits and a SpaceX compute deal",
+    "published_or_updated": "2026-05-06",
+    "source_type": "company_announcement",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "locator": "Colossus 1 agreement; summary of other agreements",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S07",
+    "publisher": "SpaceX",
+    "title": "EU prospectus approved by Bafin",
+    "published_or_updated": "2026-06-05",
+    "source_type": "regulatory_filing",
+    "url": "https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf",
+    "locator": "PDF page 76 (printed page 64): Anthropic cloud agreements",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S08",
+    "publisher": "Microsoft",
+    "title": "The next phase of the Microsoft-OpenAI partnership",
+    "published_or_updated": "2026-04-27",
+    "source_type": "company_announcement",
+    "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+    "locator": "Primary cloud partner; nonexclusive licensing and distribution",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S09",
+    "publisher": "Anthropic",
+    "title": "Microsoft NVIDIA and Anthropic partnerships",
+    "published_or_updated": "2025-11-18",
+    "source_type": "company_announcement",
+    "url": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
+    "locator": "Azure compute purchase and up-to-1-GW wording",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S10",
+    "publisher": "OpenAI",
+    "title": "OpenAI and Amazon announce strategic partnership",
+    "published_or_updated": "2026-02-27",
+    "source_type": "company_announcement",
+    "url": "https://openai.com/index/amazon-partnership/",
+    "locator": "Approximately 2 GW Trainium commitment",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S11",
+    "publisher": "Amazon",
+    "title": "First quarter 2026 earnings release",
+    "published_or_updated": "2026-04-29",
+    "source_type": "company_financial_disclosure",
+    "url": "https://s2.q4cdn.com/299287126/files/doc_earnings/2026/q1/earnings-result/AMZN-Q1-2026-Earnings-Release.pdf",
+    "locator": "PDF page 1 (second page): OpenAI Trainium begins ramping in 2027",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S12",
+    "publisher": "Google Cloud",
+    "title": "Google Cloud brings OpenAI models to customers",
+    "published_or_updated": "2026-10-22",
+    "source_type": "company_announcement",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
+    "locator": "Model garden distribution; deployment footprint not quantified",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S13",
+    "publisher": "Anthropic",
+    "title": "Google and Broadcom compute partnership",
+    "published_or_updated": "2026-04-06",
+    "source_type": "company_announcement",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "locator": "Multiple GW of next-generation TPU capacity starting 2027",
+    "accessed_local_date": "2026-11-04"
+  },
+  {
+    "source_id": "S14",
+    "publisher": "Epoch AI",
+    "title": "AI chip users methodology",
+    "published_or_updated": "2026-09",
+    "source_type": "research_methodology",
+    "url": "https://epoch.ai/data/ai-chip-users-documentation/methodology",
+    "locator": "Allocation boundaries; excludes capacity rented to others",
+    "accessed_local_date": "2026-11-04"
+  }
+]

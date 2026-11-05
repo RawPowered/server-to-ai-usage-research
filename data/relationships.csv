@@ -1,0 +1,11 @@
+relationship_id,provider,customer,relationship_type,measure,value,unit,time_scope,status,source_ids,caveat
+R01,Microsoft,OpenAI,compute_supply,primary cloud partner,,,agreement_2026-04-27,announced_relationship,S08,Exact tenant share and physical allocation undisclosed
+R02,Amazon,Anthropic,compute_supply,currently used Trainium2 chips,1000000,chips_lower_bound,as_reported_2026-04-20,company_reported_usage,S05,Do not convert chip count directly to H100e
+R03,Amazon,Anthropic,compute_commitment,capacity agreement,5,GW_upper_bound,multiyear,contracted_future_mixed,S05,Includes nearly 1 GW targeted by end-2026; not all operating
+R04,Google/Broadcom,Anthropic,compute_commitment,next-generation TPU agreement,5,GW,starts_2027,future_capacity,S06;S13,April says multiple GW; May summary specifies 5 GW; not two deals to add
+R05,Microsoft,Anthropic,compute_commitment,Azure purchase,30000000000,USD,multiyear,contracted_future_mixed,S09,Additional up-to-1-GW wording does not establish operating capacity
+R06,Amazon,OpenAI,compute_commitment,Trainium agreement,2,GW_approximate,ramp_starts_2027,future_capacity,S10;S11,Future addition; do not add to current fleet
+R07,SpaceXSI,Anthropic,compute_supply,all Colossus 1 capacity,220000,GPUs_lower_bound,within_month_of_2026-05-06,announced_near_term_access,S06,Over 300 MW; part of broader Colossus agreement R08
+R08,SpaceXSI,Anthropic,compute_supply,Colossus 1 and 2 agreement,325000,GPUs_approximate,May_June_2026_ramp,contracted_capacity,S07,Broader scope than R07; not additive; delivery/utilization unverified
+R09,Google,OpenAI,model_distribution,OpenAI models in Google Cloud model garden,,,announced_2026-10-22,distribution_announcement,S12,Does not establish training fleet location or allocated chip count
+R10,SpaceXSI,Google,compute_supply,capacity rented to Google,,,reported_in_2026-09-09_analysis,research_reported_relationship,S03,Primary contract and delivered allocation need separate verification

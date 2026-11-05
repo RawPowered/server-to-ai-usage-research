@@ -1,0 +1,5 @@
+site,it_power_mw,observation_period,status,source_id
+Anthropic-Amazon New Carlisle,1037,2026-11,estimated_operational_capacity,S04
+Colossus 2,946,2026-11,estimated_operational_capacity,S04
+OpenAI Stargate Abilene,824,2026-11,estimated_operational_capacity,S04
+Microsoft Fairwater Atlanta,636,2026-11,estimated_operational_capacity,S04

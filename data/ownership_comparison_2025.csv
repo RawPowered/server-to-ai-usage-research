@@ -1,0 +1,5 @@
+owner,observation_date,h100e_sum_of_component_medians,status,source_id
+Google,2025-12-31,5049814,derived_estimate_not_operational_measurement,S01
+Microsoft,2025-12-31,3416016,derived_estimate_not_operational_measurement,S01
+Amazon,2025-12-31,2448673,derived_estimate_not_operational_measurement,S01
+xAI,2025-12-31,553714,derived_estimate_not_operational_measurement,S01
